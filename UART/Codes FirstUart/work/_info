@@ -1,0 +1,150 @@
+m255
+K3
+z0
+13
+cModel Technology
+dC:\Users\Aldo\Pendientes\Verificacion\UART\Codes\Proyecto Final
+vmonitor
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1491097480
+!i10b 1
+!s100 Wg2Ybc>]<WHU:@leiklo[1
+I=b9lAThMZb2T[`OlzB=4U3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 top_uart_sv_unit
+S1
+Z4 dC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Codes FirstUart
+Z5 w1463575651
+Z6 8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Codes FirstUart/top_uart.sv
+Z7 FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Codes FirstUart/top_uart.sv
+L0 82
+Z8 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z9 !s108 1491097480.000000
+Z10 !s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Codes FirstUart/top_uart.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Codes FirstUart/top_uart.sv|
+!s101 -O0
+!i113 1
+Z12 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+vtest_bench_uart
+R0
+R1
+!i10b 1
+!s100 UdlZn7nnOl]>Bk@DmZMc72
+Izi^L5K34aD=]JajHk=9G43
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 57
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vtop_uart
+R0
+R1
+!i10b 1
+!s100 57`3SbGJI5:Z]X`0:f7ND3
+IGLWn?_^3B<EV`;f0H=MAO2
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 4
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+Yuart_if
+R0
+R1
+!i10b 1
+!s100 58EY0z=Pf^6@ZJa`8AIn12
+IgnnOT[]z4X5A6Zg?GzoK20
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 24
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vuart_rx
+R0
+R1
+!i10b 1
+!s100 <^Rl@fJ^ZV9EE5PCXJaHm1
+IN]6b5nKPdIE_H16<MQKCJ1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 230
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+vuart_tx
+R0
+R1
+!i10b 1
+!s100 MKkKgTKOVFmcjGUbnF72D1
+IIb@IQ;>CXiAHW4S`;3T2d1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 119
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12

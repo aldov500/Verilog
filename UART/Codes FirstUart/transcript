@@ -1,0 +1,304 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# ** Error: (vish-7) Failed to open ini file "C:/modeltech64_10.1c/modelsim.ini" in read mode.
+# Invalid argument. (errno = EINVAL)
+# OpenFile {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Codes FirstUart/work.mpf}
+# Loading project work
+vsim -voptargs=+acc work.top_uart
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\Aldo\Google Drive\Programacion\Verilog & System Verilog\Workspace\UART\Codes FirstUart\work.mpf 
+# Start time: 19:43:30 on Apr 01,2017
+# Refreshing C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Codes FirstUart/work.top_uart
+# ** Error: (vsim-13) Recompile work.top_uart because sv_std.std has changed.
+# 
+# Error loading design
+# Compile of top_uart.sv was successful.
+# Compile of top_uart.sv was successful.
+vsim work.top_uart
+# vsim 
+# Start time: 19:44:51 on Apr 01,2017
+# Loading sv_std.std
+# Loading work.top_uart
+# Loading work.uart_if
+# Loading work.uart_tx
+# Loading work.uart_rx
+# Loading work.monitor
+# Loading work.test_bench_uart
+add wave -position insertpoint sim:/top_uart/intf/*
+run
+# [0]: Reset presionado
+# ----------------------------------
+# [100]: Transmision [1] iniciada.
+# Enviando datos:[10111101]
+# 									
+# 									
+# [840] Transmision [1] completada.
+# Datos recibidos = [10111101]
+# ----------------------------------
+# ----------------------------------
+# [1060]: Transmision [2] iniciada.
+# Enviando datos:[10101101]
+# 									
+# 									
+# [1800] Transmision [2] completada.
+# Datos recibidos = [10101101]
+# ----------------------------------
+# ----------------------------------
+# [2020]: Transmision [3] iniciada.
+# Enviando datos:[11011101]
+# 									
+# 									
+# [2760] Transmision [3] completada.
+# Datos recibidos = [11011101]
+# ----------------------------------
+# ----------------------------------
+# [2980]: Transmision [4] iniciada.
+# Enviando datos:[10100101]
+# 									
+# 									
+# [3720] Transmision [4] completada.
+# Datos recibidos = [10100101]
+# ----------------------------------
+# ----------------------------------
+# [3940]: Transmision [5] iniciada.
+# Enviando datos:[10001001]
+# 									
+# 									
+# [4680] Transmision [5] completada.
+# Datos recibidos = [10001001]
+# ----------------------------------
+# ----------------------------------
+# [4900]: Transmision [6] iniciada.
+# Enviando datos:[100011]
+# 									
+# 									
+# [5640] Transmision [6] completada.
+# Datos recibidos = [100011]
+# ----------------------------------
+# ----------------------------------
+# [5860]: Transmision [7] iniciada.
+# Enviando datos:[1000101]
+# 									
+# 									
+# [6600] Transmision [7] completada.
+# Datos recibidos = [1000101]
+# ----------------------------------
+# ----------------------------------
+# [6820]: Transmision [8] iniciada.
+# Enviando datos:[10100101]
+# 									
+# 									
+# [7560] Transmision [8] completada.
+# Datos recibidos = [10100101]
+# ----------------------------------
+# ----------------------------------
+# [7780]: Transmision [9] iniciada.
+# Enviando datos:[10010010]
+# 									
+# 									
+# [8520] Transmision [9] completada.
+# Datos recibidos = [10010010]
+# ----------------------------------
+# ----------------------------------
+# [8740]: Transmision [10] iniciada.
+# Enviando datos:[11111001]
+# 									
+# 									
+# [9480] Transmision [10] completada.
+# Datos recibidos = [11111001]
+# ----------------------------------
+# ----------------------------------
+# [9700]: Transmision [11] iniciada.
+# Enviando datos:[1111101]
+# 									
+run
+# 									
+# [10440] Transmision [11] completada.
+# Datos recibidos = [1111101]
+# ----------------------------------
+# ----------------------------------
+# [10660]: Transmision [12] iniciada.
+# Enviando datos:[11111001]
+# 									
+# 									
+# [11400] Transmision [12] completada.
+# Datos recibidos = [11111001]
+# ----------------------------------
+# ----------------------------------
+# [11620]: Transmision [13] iniciada.
+# Enviando datos:[10111000]
+# 									
+# 									
+# [12360] Transmision [13] completada.
+# Datos recibidos = [10111000]
+# ----------------------------------
+# ----------------------------------
+# [12580]: Transmision [14] iniciada.
+# Enviando datos:[1111001]
+# 									
+# 									
+# [13320] Transmision [14] completada.
+# Datos recibidos = [1111001]
+# ----------------------------------
+# ----------------------------------
+# [13540]: Transmision [15] iniciada.
+# Enviando datos:[1001000]
+# 									
+# 									
+# [14280] Transmision [15] completada.
+# Datos recibidos = [1001000]
+# ----------------------------------
+# ----------------------------------
+# [14500]: Transmision [16] iniciada.
+# Enviando datos:[10000011]
+# 									
+# 									
+# [15240] Transmision [16] completada.
+# Datos recibidos = [10000011]
+# ----------------------------------
+# ----------------------------------
+# [15460]: Transmision [17] iniciada.
+# Enviando datos:[111111]
+# 									
+# 									
+# [16200] Transmision [17] completada.
+# Datos recibidos = [111111]
+# ----------------------------------
+# ----------------------------------
+# [16420]: Transmision [18] iniciada.
+# Enviando datos:[11110110]
+# 									
+# 									
+# [17160] Transmision [18] completada.
+# Datos recibidos = [11110110]
+# ----------------------------------
+# ----------------------------------
+# [17380]: Transmision [19] iniciada.
+# Enviando datos:[110110]
+# 									
+# 									
+# [18120] Transmision [19] completada.
+# Datos recibidos = [110110]
+# ----------------------------------
+# ----------------------------------
+# [18340]: Transmision [20] iniciada.
+# Enviando datos:[11100000]
+# 									
+# 									
+# [19080] Transmision [20] completada.
+# Datos recibidos = [11100000]
+# ----------------------------------
+# ----------------------------------
+# [19300]: Transmision [21] iniciada.
+# Enviando datos:[11000110]
+# 									
+run
+# 									
+# [20040] Transmision [21] completada.
+# Datos recibidos = [11000110]
+# ----------------------------------
+# ----------------------------------
+# [20260]: Transmision [22] iniciada.
+# Enviando datos:[11010111]
+# 									
+# 									
+# [21000] Transmision [22] completada.
+# Datos recibidos = [11010111]
+# ----------------------------------
+# ----------------------------------
+# [21220]: Transmision [23] iniciada.
+# Enviando datos:[10000]
+# 									
+# 									
+# [21960] Transmision [23] completada.
+# Datos recibidos = [10000]
+# ----------------------------------
+# ----------------------------------
+# [22180]: Transmision [24] iniciada.
+# Enviando datos:[111000]
+# 									
+# 									
+# [22920] Transmision [24] completada.
+# Datos recibidos = [111000]
+# ----------------------------------
+# ----------------------------------
+# [23140]: Transmision [25] iniciada.
+# Enviando datos:[11010]
+# 									
+# 									
+# [23880] Transmision [25] completada.
+# Datos recibidos = [11010]
+# ----------------------------------
+# ----------------------------------
+# [24100]: Transmision [26] iniciada.
+# Enviando datos:[1000]
+# 									
+# 									
+# [24840] Transmision [26] completada.
+# Datos recibidos = [1000]
+# ----------------------------------
+# ----------------------------------
+# [25060]: Transmision [27] iniciada.
+# Enviando datos:[10100100]
+# 									
+# 									
+# [25800] Transmision [27] completada.
+# Datos recibidos = [10100100]
+# ----------------------------------
+# ----------------------------------
+# [26020]: Transmision [28] iniciada.
+# Enviando datos:[11100111]
+# 									
+# 									
+# [26760] Transmision [28] completada.
+# Datos recibidos = [11100111]
+# ----------------------------------
+# ----------------------------------
+# [26980]: Transmision [29] iniciada.
+# Enviando datos:[11110011]
+# 									
+# 									
+# [27720] Transmision [29] completada.
+# Datos recibidos = [11110011]
+# ----------------------------------
+# ----------------------------------
+# [27940]: Transmision [30] iniciada.
+# Enviando datos:[11111100]
+# 									
+# 									
+# [28680] Transmision [30] completada.
+# Datos recibidos = [11111100]
+# ----------------------------------
+# ----------------------------------
+# [28900]: Transmision [31] iniciada.
+# Enviando datos:[10000111]
+# 									
+# 									
+# [29640] Transmision [31] completada.
+# Datos recibidos = [10000111]
+# ----------------------------------
+# ----------------------------------
+# [29860]: Transmision [0] iniciada.
+# Enviando datos:[1001000]
+# 									
+# A time value could not be extracted from the current line
+# A time value could not be extracted from the current line
+# A time value could not be extracted from the current line
+# End time: 19:46:12 on Apr 01,2017, Elapsed time: 0:01:21
+# Errors: 0, Warnings: 0

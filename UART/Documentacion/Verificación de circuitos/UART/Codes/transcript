@@ -1,0 +1,422 @@
+# vsim -do {run -all; q -f} -c top_uart 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.top_uart(fast)
+# Loading work.uart_tx(fast)
+# Loading work.uart_rx(fast)
+# Loading work.monitor(fast)
+# Loading work.test_bench_uart(fast)
+# run -all 
+# [0]: Reset presionado
+# ----------------------------------
+# [100]: Transmision [1] iniciada.
+# Enviando datos:[110100]
+# 									
+# 									
+# [840] Transmision [1] completada.
+# Datos recibidos = [110100]
+# ----------------------------------
+# ----------------------------------
+# [1060]: Transmision [2] iniciada.
+# Enviando datos:[11010110]
+# 									
+# 									
+# [1800] Transmision [2] completada.
+# Datos recibidos = [11010110]
+# ----------------------------------
+# ----------------------------------
+# [2020]: Transmision [3] iniciada.
+# Enviando datos:[10101011]
+# 									
+# 									
+# [2760] Transmision [3] completada.
+# Datos recibidos = [10101011]
+# ----------------------------------
+# ----------------------------------
+# [2980]: Transmision [4] iniciada.
+# Enviando datos:[1001000]
+# 									
+# 									
+# [3720] Transmision [4] completada.
+# Datos recibidos = [1001000]
+# ----------------------------------
+# ----------------------------------
+# [3940]: Transmision [5] iniciada.
+# Enviando datos:[1010110]
+# 									
+# 									
+# [4680] Transmision [5] completada.
+# Datos recibidos = [1010110]
+# ----------------------------------
+# ----------------------------------
+# [4900]: Transmision [6] iniciada.
+# Enviando datos:[11100101]
+# 									
+# 									
+# [5640] Transmision [6] completada.
+# Datos recibidos = [11100101]
+# ----------------------------------
+# ----------------------------------
+# [5860]: Transmision [7] iniciada.
+# Enviando datos:[10011000]
+# 									
+# 									
+# [6600] Transmision [7] completada.
+# Datos recibidos = [10011000]
+# ----------------------------------
+# ----------------------------------
+# [6820]: Transmision [8] iniciada.
+# Enviando datos:[1011]
+# 									
+# 									
+# [7560] Transmision [8] completada.
+# Datos recibidos = [1011]
+# ----------------------------------
+# ----------------------------------
+# [7780]: Transmision [9] iniciada.
+# Enviando datos:[1000010]
+# 									
+# 									
+# [8520] Transmision [9] completada.
+# Datos recibidos = [1000010]
+# ----------------------------------
+# ----------------------------------
+# [8740]: Transmision [10] iniciada.
+# Enviando datos:[11100011]
+# 									
+# 									
+# [9480] Transmision [10] completada.
+# Datos recibidos = [11100011]
+# ----------------------------------
+# ----------------------------------
+# [9700]: Transmision [11] iniciada.
+# Enviando datos:[10110]
+# 									
+# 									
+# [10440] Transmision [11] completada.
+# Datos recibidos = [10110]
+# ----------------------------------
+# ----------------------------------
+# [10660]: Transmision [12] iniciada.
+# Enviando datos:[1011000]
+# 									
+# 									
+# [11400] Transmision [12] completada.
+# Datos recibidos = [1011000]
+# ----------------------------------
+# ----------------------------------
+# [11620]: Transmision [13] iniciada.
+# Enviando datos:[1010000]
+# 									
+# 									
+# [12360] Transmision [13] completada.
+# Datos recibidos = [1010000]
+# ----------------------------------
+# ----------------------------------
+# [12580]: Transmision [14] iniciada.
+# Enviando datos:[11000010]
+# 									
+# 									
+# [13320] Transmision [14] completada.
+# Datos recibidos = [11000010]
+# ----------------------------------
+# ----------------------------------
+# [13540]: Transmision [15] iniciada.
+# Enviando datos:[110110]
+# 									
+# 									
+# [14280] Transmision [15] completada.
+# Datos recibidos = [110110]
+# ----------------------------------
+# ----------------------------------
+# [14500]: Transmision [16] iniciada.
+# Enviando datos:[1001001]
+# 									
+# 									
+# [15240] Transmision [16] completada.
+# Datos recibidos = [1001001]
+# ----------------------------------
+# ----------------------------------
+# [15460]: Transmision [17] iniciada.
+# Enviando datos:[10100111]
+# 									
+# 									
+# [16200] Transmision [17] completada.
+# Datos recibidos = [10100111]
+# ----------------------------------
+# ----------------------------------
+# [16420]: Transmision [18] iniciada.
+# Enviando datos:[10001]
+# 									
+# 									
+# [17160] Transmision [18] completada.
+# Datos recibidos = [10001]
+# ----------------------------------
+# ----------------------------------
+# [17380]: Transmision [19] iniciada.
+# Enviando datos:[10100]
+# 									
+# 									
+# [18120] Transmision [19] completada.
+# Datos recibidos = [10100]
+# ----------------------------------
+# ----------------------------------
+# [18340]: Transmision [20] iniciada.
+# Enviando datos:[1000000]
+# 									
+# 									
+# [19080] Transmision [20] completada.
+# Datos recibidos = [1000000]
+# ----------------------------------
+# ----------------------------------
+# [19300]: Transmision [21] iniciada.
+# Enviando datos:[11110001]
+# 									
+# 									
+# [20040] Transmision [21] completada.
+# Datos recibidos = [11110001]
+# ----------------------------------
+# ----------------------------------
+# [20260]: Transmision [22] iniciada.
+# Enviando datos:[11010]
+# 									
+# 									
+# [21000] Transmision [22] completada.
+# Datos recibidos = [11010]
+# ----------------------------------
+# ----------------------------------
+# [21220]: Transmision [23] iniciada.
+# Enviando datos:[110110]
+# 									
+# 									
+# [21960] Transmision [23] completada.
+# Datos recibidos = [110110]
+# ----------------------------------
+# ----------------------------------
+# [22180]: Transmision [24] iniciada.
+# Enviando datos:[1111010]
+# 									
+# 									
+# [22920] Transmision [24] completada.
+# Datos recibidos = [1111010]
+# ----------------------------------
+# ----------------------------------
+# [23140]: Transmision [25] iniciada.
+# Enviando datos:[100]
+# 									
+# 									
+# [23880] Transmision [25] completada.
+# Datos recibidos = [100]
+# ----------------------------------
+# ----------------------------------
+# [24100]: Transmision [26] iniciada.
+# Enviando datos:[11011111]
+# 									
+# 									
+# [24840] Transmision [26] completada.
+# Datos recibidos = [11011111]
+# ----------------------------------
+# ----------------------------------
+# [25060]: Transmision [27] iniciada.
+# Enviando datos:[1010001]
+# 									
+# 									
+# [25800] Transmision [27] completada.
+# Datos recibidos = [1010001]
+# ----------------------------------
+# ----------------------------------
+# [26020]: Transmision [28] iniciada.
+# Enviando datos:[1111111]
+# 									
+# 									
+# [26760] Transmision [28] completada.
+# Datos recibidos = [1111111]
+# ----------------------------------
+# ----------------------------------
+# [26980]: Transmision [29] iniciada.
+# Enviando datos:[1101110]
+# 									
+# 									
+# [27720] Transmision [29] completada.
+# Datos recibidos = [1101110]
+# ----------------------------------
+# ----------------------------------
+# [27940]: Transmision [30] iniciada.
+# Enviando datos:[10100011]
+# 									
+# 									
+# [28680] Transmision [30] completada.
+# Datos recibidos = [10100011]
+# ----------------------------------
+# ----------------------------------
+# [28900]: Transmision [31] iniciada.
+# Enviando datos:[11011110]
+# 									
+# 									
+# [29640] Transmision [31] completada.
+# Datos recibidos = [11011110]
+# ----------------------------------
+# ----------------------------------
+# [29860]: Transmision [0] iniciada.
+# Enviando datos:[1101]
+# 									
+# 									
+# [30600] Transmision [0] completada.
+# Datos recibidos = [1101]
+# ----------------------------------
+# ----------------------------------
+# [30820]: Transmision [1] iniciada.
+# Enviando datos:[110]
+# 									
+# 									
+# [31560] Transmision [1] completada.
+# Datos recibidos = [110]
+# ----------------------------------
+# ----------------------------------
+# [31780]: Transmision [2] iniciada.
+# Enviando datos:[10010110]
+# 									
+# 									
+# [32520] Transmision [2] completada.
+# Datos recibidos = [10010110]
+# ----------------------------------
+# ----------------------------------
+# [32740]: Transmision [3] iniciada.
+# Enviando datos:[1101010]
+# 									
+# 									
+# [33480] Transmision [3] completada.
+# Datos recibidos = [1101010]
+# ----------------------------------
+# ----------------------------------
+# [33700]: Transmision [4] iniciada.
+# Enviando datos:[10001010]
+# 									
+# 									
+# [34440] Transmision [4] completada.
+# Datos recibidos = [10001010]
+# ----------------------------------
+# ----------------------------------
+# [34660]: Transmision [5] iniciada.
+# Enviando datos:[11101]
+# 									
+# 									
+# [35400] Transmision [5] completada.
+# Datos recibidos = [11101]
+# ----------------------------------
+# ----------------------------------
+# [35620]: Transmision [6] iniciada.
+# Enviando datos:[1]
+# 									
+# 									
+# [36360] Transmision [6] completada.
+# Datos recibidos = [1]
+# ----------------------------------
+# ----------------------------------
+# [36580]: Transmision [7] iniciada.
+# Enviando datos:[110110]
+# 									
+# 									
+# [37320] Transmision [7] completada.
+# Datos recibidos = [110110]
+# ----------------------------------
+# ----------------------------------
+# [37540]: Transmision [8] iniciada.
+# Enviando datos:[11100000]
+# 									
+# 									
+# [38280] Transmision [8] completada.
+# Datos recibidos = [11100000]
+# ----------------------------------
+# ----------------------------------
+# [38500]: Transmision [9] iniciada.
+# Enviando datos:[11000001]
+# 									
+# 									
+# [39240] Transmision [9] completada.
+# Datos recibidos = [11000001]
+# ----------------------------------
+# ----------------------------------
+# [39460]: Transmision [10] iniciada.
+# Enviando datos:[1001111]
+# 									
+# 									
+# [40200] Transmision [10] completada.
+# Datos recibidos = [1001111]
+# ----------------------------------
+# ----------------------------------
+# [40420]: Transmision [11] iniciada.
+# Enviando datos:[1011010]
+# 									
+# 									
+# [41160] Transmision [11] completada.
+# Datos recibidos = [1011010]
+# ----------------------------------
+# ----------------------------------
+# [41380]: Transmision [12] iniciada.
+# Enviando datos:[100001]
+# 									
+# 									
+# [42120] Transmision [12] completada.
+# Datos recibidos = [100001]
+# ----------------------------------
+# ----------------------------------
+# [42340]: Transmision [13] iniciada.
+# Enviando datos:[11000011]
+# 									
+# 									
+# [43080] Transmision [13] completada.
+# Datos recibidos = [11000011]
+# ----------------------------------
+# ----------------------------------
+# [43300]: Transmision [14] iniciada.
+# Enviando datos:[11000]
+# 									
+# 									
+# [44040] Transmision [14] completada.
+# Datos recibidos = [11000]
+# ----------------------------------
+# ----------------------------------
+# [44260]: Transmision [15] iniciada.
+# Enviando datos:[1000110]
+# 									
+# 									
+# [45000] Transmision [15] completada.
+# Datos recibidos = [1000110]
+# ----------------------------------
+# ----------------------------------
+# [45220]: Transmision [16] iniciada.
+# Enviando datos:[1010]
+# 									
+# 									
+# [45960] Transmision [16] completada.
+# Datos recibidos = [1010]
+# ----------------------------------
+# ----------------------------------
+# [46180]: Transmision [17] iniciada.
+# Enviando datos:[11101101]
+# 									
+# 									
+# [46920] Transmision [17] completada.
+# Datos recibidos = [11101101]
+# ----------------------------------
+# ----------------------------------
+# [47140]: Transmision [18] iniciada.
+# Enviando datos:[10110]
+# 									
+# 									
+# [47880] Transmision [18] completada.
+# Datos recibidos = [10110]
+# ----------------------------------
+# ** Note: $finish    : top_uart.sv(75)
+#    Time: 48 us  Iteration: 0  Instance: /top_uart/tb1

@@ -1,0 +1,13 @@
+{C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Codes FirstUart/top_uart.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Codes FirstUart/top_uart.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top_uart
+-- Compiling interface uart_if
+-- Compiling module test_bench_uart
+-- Compiling module monitor
+-- Compiling module uart_tx
+-- Compiling module uart_rx
+
+Top level modules:
+	top_uart
+
+} {} {}}
