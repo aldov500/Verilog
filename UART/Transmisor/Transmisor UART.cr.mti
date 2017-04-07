@@ -1,0 +1,15 @@
+C:/Users/Aldo/Pendientes/UART/Transmisor/Transmisor.v {1 {vlog -work work -stats=none {C:\Users\Aldo\Pendientes\UART\Transmisor\Transmisor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module UART_TX
+
+Top level modules:
+	UART_TX
+
+} {} {}} C:/Users/Aldo/Pendientes/UART/Transmisor/TB_Transmisor.v {1 {vlog -work work -stats=none C:/Users/Aldo/Pendientes/UART/Transmisor/TB_Transmisor.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TB_UART_TX
+
+Top level modules:
+	TB_UART_TX
+
+} {} {}}

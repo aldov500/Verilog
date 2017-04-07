@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Verilog/Ejemplos Verilog/Proyecto UART/Codes
+vTB_UART_TX
+Z0 !s110 1485824213
+!i10b 1
+!s100 aGG7=GoUL]L4`^zRgSQ@n1
+I:2mLAMHL:MRf=M2<eQ^WU1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Aldo/Pendientes/UART/Transmisor
+w1485824210
+8C:/Users/Aldo/Pendientes/UART/Transmisor/TB_Transmisor.v
+FC:/Users/Aldo/Pendientes/UART/Transmisor/TB_Transmisor.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1485824213.000000
+!s107 C:/Users/Aldo/Pendientes/UART/Transmisor/TB_Transmisor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Pendientes/UART/Transmisor/TB_Transmisor.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+n@t@b_@u@a@r@t_@t@x
+vuart_rx
+!s110 1485822528
+!i10b 1
+!s100 Yln]6z1]o=XB_j0B1a0Xh0
+IfXAXcjZT@C<5GB9Qc_XYn0
+R1
+R2
+w1462812746
+8C:/Users/Aldo/Pendientes/UART/Transmisor/uart_rx.v
+FC:/Users/Aldo/Pendientes/UART/Transmisor/uart_rx.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1485822528.000000
+!s107 C:/Users/Aldo/Pendientes/UART/Transmisor/uart_rx.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Pendientes/UART/Transmisor/uart_rx.v|
+!s101 -O0
+!i113 1
+R5
+vUART_TX
+R0
+!i10b 1
+!s100 Laz;Sh<o61QOV6:_Pz[6K0
+IHl^QHU?BD4AE?7L9GhB8O2
+R1
+R2
+w1485824055
+8C:\Users\Aldo\Pendientes\UART\Transmisor\Transmisor.v
+FC:\Users\Aldo\Pendientes\UART\Transmisor\Transmisor.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\Aldo\Pendientes\UART\Transmisor\Transmisor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Aldo\Pendientes\UART\Transmisor\Transmisor.v|
+!s101 -O0
+!i113 1
+R5
+n@u@a@r@t_@t@x

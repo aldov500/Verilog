@@ -1,0 +1,578 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/Aldo/Pendientes/UART/Transmisor/Transmisor UART.mpf}
+# Loading project Transmisor UART
+# Compile of Transmisor.v failed with 2 errors.
+# Compile of Transmisor.v failed with 2 errors.
+# Compile of Transmisor.v failed with 2 errors.
+# Compile of Transmisor.v failed with 1 errors.
+# Compile of Transmisor.v failed with 1 errors.
+# Compile of Transmisor.v failed with 1 errors.
+# Compile of Transmisor.v failed with 1 errors.
+# Compile of Transmisor.v failed with 1 errors.
+# Compile of uart_rx.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of Transmisor.v failed with 1 errors.
+# Compile of uart_rx.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of Transmisor.v was successful.
+# Compile of uart_rx.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.TB_UART_TX
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\Aldo\Pendientes\UART\Transmisor\Transmisor UART.mpf 
+# Start time: 18:40:06 on Jan 30,2017
+# Loading work.TB_UART_TX
+# Loading work.UART_TX
+add wave -position insertpoint sim:/TB_UART_TX/*
+run
+# Salida de TX: x
+run
+run
+run
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Loading work.TB_UART_TX
+# Loading work.UART_TX
+run
+# Salida de TX: x
+# Salida de TX: 1
+# Salida de TX: 0
+run
+run
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Loading work.TB_UART_TX
+# Loading work.UART_TX
+run
+# Salida de TX: x
+# Salida de TX: 1
+# Salida de TX: 0
+run
+run
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Loading work.TB_UART_TX
+# Loading work.UART_TX
+run
+# Salida de TX: x
+# Salida de TX: 1
+# Salida de TX: 0
+run
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Loading work.TB_UART_TX
+# Loading work.UART_TX
+# ** Warning: (vsim-3015) C:/Users/Aldo/Pendientes/UART/Transmisor/TB_Transmisor.v(6): [PCDPC] - Port size (8) does not match connection size (1) for port 'tx_data'. The port definition is at: C:/Users/Aldo/Pendientes/UART/Transmisor/Transmisor.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /TB_UART_TX/Instancia File: C:/Users/Aldo/Pendientes/UART/Transmisor/Transmisor.v
+run
+# Salida de TX: x
+# Salida de TX: 1
+# Salida de TX: 0
+run
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Loading work.TB_UART_TX
+# Loading work.UART_TX
+run
+# Salida de TX: x
+# Salida de TX: 1
+# Salida de TX: 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Loading work.TB_UART_TX
+# Loading work.UART_TX
+run
+# Salida de TX: x Estado: x
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+run
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+run
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+run
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+run
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+run
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+run
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+run
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 0
+# Salida de TX: 0 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Loading work.TB_UART_TX
+# Loading work.UART_TX
+run
+# Salida de TX: x Estado: x
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+run
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+run
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 4
+run
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+run
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+run
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 4
+run
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+run
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+run
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 4
+run
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+run
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+run
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 4
+run
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+run
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+run
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 4
+run
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+run
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+run
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 4
+run
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+run
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+run
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 4
+run
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+run
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+run
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+restart -f
+run
+# Salida de TX: x Estado: x
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+run
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+run
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+run
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 4
+run
+# Salida de TX: 1 Estado: 0
+# Salida de TX: 1 Estado: 1
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+run
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+run
+# Salida de TX: 1 Estado: 3
+# Salida de TX: 0 Estado: 2
+# Salida de TX: 0 Estado: 3
+# Salida de TX: 1 Estado: 2
+# Salida de TX: 1 Estado: 3
+quit -sim
+# Compile of Transmisor.v was successful.
+# Compile of TB_Transmisor.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.TB_UART_TX
+# vsim 
+# Start time: 18:56:58 on Jan 30,2017
+# Loading work.TB_UART_TX
+# Loading work.UART_TX
+add wave -position insertpoint sim:/TB_UART_TX/*
+run
+# Salida de TX: x Estado: x Transmision: x
+# Salida de TX: 1 Estado: 0 Transmision: x
+# Salida de TX: 1 Estado: 1 Transmision: 0
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+run
+# Salida de TX: 1 Estado: 2 Transmision: 0
+# Salida de TX: 1 Estado: 3 Transmision: 0
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+# Salida de TX: 1 Estado: 2 Transmision: 0
+run
+# Salida de TX: 1 Estado: 3 Transmision: 0
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+# Salida de TX: 1 Estado: 2 Transmision: 0
+# Salida de TX: 1 Estado: 3 Transmision: 0
+run
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+# Salida de TX: 1 Estado: 2 Transmision: 0
+# Salida de TX: 1 Estado: 4 Transmision: 0
+# Salida de TX: 1 Estado: 4 Transmision: 1
+run
+# Salida de TX: 1 Estado: 0 Transmision: 1
+# Salida de TX: 1 Estado: 1 Transmision: 0
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+run
+# Salida de TX: 1 Estado: 2 Transmision: 0
+# Salida de TX: 1 Estado: 3 Transmision: 0
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+# Salida de TX: 1 Estado: 2 Transmision: 0
+run
+# Salida de TX: 1 Estado: 3 Transmision: 0
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+# Salida de TX: 1 Estado: 2 Transmision: 0
+# Salida de TX: 1 Estado: 3 Transmision: 0
+run
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+# Salida de TX: 1 Estado: 2 Transmision: 0
+# Salida de TX: 1 Estado: 4 Transmision: 0
+# Salida de TX: 1 Estado: 4 Transmision: 1
+run
+# Salida de TX: 1 Estado: 0 Transmision: 1
+# Salida de TX: 1 Estado: 1 Transmision: 0
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+# Salida de TX: 0 Estado: 2 Transmision: 0
+# Salida de TX: 0 Estado: 3 Transmision: 0
+# End time: 18:57:35 on Jan 30,2017, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 0
