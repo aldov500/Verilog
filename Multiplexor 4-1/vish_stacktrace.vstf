@@ -1,0 +1,20 @@
+# Current time Wed May 11 08:21:06 2016
+# ModelSim Stack Trace
+# Program = vish
+# Id = "10.1c"
+# Version = "2012.07"
+# Date = "Jul 28 2012"
+# Platform = win64
+
+Exception c0000005 has occurred at address 401b03c2. Traceback:
+# 0    0x401b03c2: 'Mtirpc_Init + 0xda792'
+# 1    0x00000003: '<unknown (@0x3)>'
+# 2    0x002291c1: '<unknown (@0x2291c1)>'
+# 3    0x10000000: '<unknown (@0x10000000)>'
+# 4    0x1006e54c: 'TclNeedSpace + 0xc'
+# 5    0x401f3425: 'Mtirpc_Init + 0x11d7f5'
+# 6    0x00229252: '<unknown (@0x229252)>'
+# 7    0x002291c1: '<unknown (@0x2291c1)>'
+StackWalk failed 487
+# End of Stack Trace
+

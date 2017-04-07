@@ -1,0 +1,57 @@
+{C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_D.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_D.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TB_FF_D
+
+Top level modules:
+	TB_FF_D
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_T.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_T.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TB_FF_T
+
+Top level modules:
+	TB_FF_T
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_SR.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_SR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TB_FF_SR
+
+Top level modules:
+	TB_FF_SR
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_JK.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_JK.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TB_FF_JK
+
+Top level modules:
+	TB_FF_JK
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo D.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo D.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF_D
+
+Top level modules:
+	FF_D
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF tipo T.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF tipo T.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF_T
+
+Top level modules:
+	FF_T
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo SR.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo SR.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF_SR
+
+Top level modules:
+	FF_SR
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo JK.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo JK.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FF_JK
+
+Top level modules:
+	FF_JK
+
+} {} {}}

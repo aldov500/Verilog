@@ -1,0 +1,53 @@
+m255
+K3
+z0
+13
+cModel Technology
+dC:\Users\Aldo\Desktop\UART\Codes\UART
+vMux4_1
+Z0 !s110 1485236153
+!i10b 1
+!s100 G?mBzG?Q27JZW6`E0Bmja0
+IE1F4[3caHSjTbDKa=gHE@3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Multiplexor 4-1
+w1484704797
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Multiplexor 4-1/Mux.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Multiplexor 4-1/Mux.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1485236153.000000
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Multiplexor 4-1/Mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Multiplexor 4-1/Mux.v|
+!s101 -O0
+!i113 1
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+n@mux4_1
+vtb_Mux4_1
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+R0
+!i10b 1
+!s100 HfCYZNI8dOH<9<Db[inXe1
+IB3V>Nzg]_N2G7L3Rj5F2P2
+R1
+!s105 test20bench_sv_unit
+S1
+R2
+w1485236143
+8C:\Users\Aldo\Google Drive\Programacion\Verilog & System Verilog\Workspace\Multiplexor 4-1\test bench.sv
+FC:\Users\Aldo\Google Drive\Programacion\Verilog & System Verilog\Workspace\Multiplexor 4-1\test bench.sv
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\Aldo\Google Drive\Programacion\Verilog & System Verilog\Workspace\Multiplexor 4-1\test bench.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Aldo\Google Drive\Programacion\Verilog & System Verilog\Workspace\Multiplexor 4-1\test bench.sv|
+!s101 -O0
+!i113 1
+o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+ntb_@mux4_1

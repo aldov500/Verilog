@@ -1,0 +1,25 @@
+
+module Mux(
+  input wire [1:0] sel,
+  input wire [23:0] A, 
+  input wire [23:0] B, 
+  input wire [23:0] C,
+  input wire clk,
+  output reg [23:0]);
+  
+  //reg [23:0] O;
+  
+  always @(posedge clk or posedge sel)
+    begin
+    case(sel)
+      2'b00:
+      O=A;
+      2'b01: 
+      O=B;
+      2'b10: 
+      O=C;
+      default: 
+      O=0;
+    endcase
+    end
+endmodule

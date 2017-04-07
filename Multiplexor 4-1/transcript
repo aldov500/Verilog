@@ -1,0 +1,53 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Multiplexor 4-1/mux.mpf}
+# Loading project mux
+vsim work.tb_Mux4_1
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\Aldo\Google Drive\Programacion\Verilog & System Verilog\Workspace\Multiplexor 4-1\mux.mpf 
+# Start time: 18:57:51 on Apr 01,2017
+# Loading sv_std.std
+# Loading work.tb_Mux4_1
+# Loading work.Mux4_1
+add wave -position insertpoint sim:/tb_Mux4_1/*
+run
+# [T+ 10]::Selector[0]|A[ 0]B[ 0]C[ 0]D[ 0]|Salida[ 0]
+# [T+ 20]::Selector[0]|A[12]B[11]C[ 9]D[14]|Salida[12]
+# [T+ 30]::Selector[0]|A[12]B[11]C[ 9]D[14]|Salida[12]
+# [T+ 40]::Selector[1]|A[12]B[11]C[ 9]D[14]|Salida[11]
+# [T+ 50]::Selector[1]|A[12]B[11]C[ 9]D[14]|Salida[11]
+# [T+ 60]::Selector[2]|A[12]B[11]C[ 9]D[14]|Salida[ 9]
+# [T+ 70]::Selector[2]|A[12]B[11]C[ 9]D[14]|Salida[ 9]
+# [T+ 80]::Selector[3]|A[12]B[11]C[ 9]D[14]|Salida[14]
+# [T+ 90]::Selector[3]|A[12]B[11]C[ 9]D[14]|Salida[14]
+# [T+ 100]::Selector[0]|A[12]B[11]C[ 9]D[14]|Salida[12]
+# [T+ 110]::Selector[0]|A[12]B[11]C[ 9]D[14]|Salida[12]
+# [T+ 120]::Selector[1]|A[12]B[11]C[ 9]D[14]|Salida[11]
+# [T+ 130]::Selector[1]|A[12]B[11]C[ 9]D[14]|Salida[11]
+# [T+ 140]::Selector[2]|A[12]B[11]C[ 9]D[14]|Salida[ 9]
+# [T+ 150]::Selector[2]|A[12]B[11]C[ 9]D[14]|Salida[ 9]
+# [T+ 160]::Selector[3]|A[12]B[11]C[ 9]D[14]|Salida[14]
+# [T+ 170]::Selector[3]|A[12]B[11]C[ 9]D[14]|Salida[14]
+# [T+ 180]::Selector[0]|A[12]B[11]C[ 9]D[14]|Salida[12]
+# [T+ 190]::Selector[0]|A[12]B[11]C[ 9]D[14]|Salida[12]
+run
+run
+run
+# End time: 18:58:13 on Apr 01,2017, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 0

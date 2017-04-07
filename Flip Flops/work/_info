@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario
+vFF_D
+Z0 !s110 1485750754
+!i10b 1
+!s100 STe8D>R?^WcM^SzWl];nL1
+I;@6a1Tl9]<jYoHGHYUXbP3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops
+w1485745800
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo D.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo D.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1485750754.000000
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo D.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo D.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@f@f_@d
+vFF_JK
+R0
+!i10b 1
+!s100 >MR1cLZZCX@]PVi29Yb5i0
+I3KgnR9amGkFO^Yjl1;KVz0
+R1
+R2
+w1485749596
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo JK.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo JK.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo JK.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo JK.v|
+!s101 -O0
+!i113 1
+R5
+n@f@f_@j@k
+vFF_SR
+R0
+!i10b 1
+!s100 CoI5E]zAG;Oi>2=5CAIR52
+I;:3k@Oi0mNC8TaOG;<<Je2
+R1
+R2
+w1485750239
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo SR.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo SR.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo SR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF Tipo SR.v|
+!s101 -O0
+!i113 1
+R5
+n@f@f_@s@r
+vFF_T
+R0
+!i10b 1
+!s100 XQVYMEUUfZOE:@_N`1g=M2
+IX>iRWMckCkD_hP;^HdDl12
+R1
+R2
+w1485744267
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF tipo T.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF tipo T.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF tipo T.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/FF tipo T.v|
+!s101 -O0
+!i113 1
+R5
+n@f@f_@t
+vTB_FF_D
+Z6 !s110 1485750755
+!i10b 1
+!s100 9MMKQb79LaWA<>bBK^0Ph3
+IB4^0ZdE_:EOS;a>J`GzTD1
+R1
+R2
+w1485747583
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_D.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_D.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z7 !s108 1485750755.000000
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_D.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_D.v|
+!s101 -O0
+!i113 1
+R5
+n@t@b_@f@f_@d
+vTB_FF_JK
+R6
+!i10b 1
+!s100 Dec5XU5fe<T`RR3_RPH?L1
+I<h4Ji>SfmRK=lh2R@mQnY1
+R1
+R2
+w1485750237
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_JK.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_JK.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_JK.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_JK.v|
+!s101 -O0
+!i113 1
+R5
+n@t@b_@f@f_@j@k
+vTB_FF_SR
+R6
+!i10b 1
+!s100 M_hF3^1b0S>@`]QXQTT461
+IKMP1OoiGiTYEZZ2E[I2d31
+R1
+R2
+w1485750214
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_SR.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_SR.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_SR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_SR.v|
+!s101 -O0
+!i113 1
+R5
+n@t@b_@f@f_@s@r
+vTB_FF_T
+R6
+!i10b 1
+!s100 `8[ZQ7>LjM5N>H0OBiQ?^1
+I4E=^mJH;AQk9jeZ52o@K11
+R1
+R2
+w1485750597
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_T.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_T.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_T.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Flip Flops/TB_FlipFlops_T.v|
+!s101 -O0
+!i113 1
+R5
+n@t@b_@f@f_@t
