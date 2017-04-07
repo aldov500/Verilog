@@ -1,0 +1,938 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Contador simple/Contador simple.mpf}
+# Loading project Contador simple
+# Compile of contador.v was successful.
+# Compile of test bench.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_contador
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\Aldo\Google Drive\Programacion\Verilog & System Verilog\Workspace\Contador simple\Contador simple.mpf 
+# Start time: 03:22:23 on Mar 14,2017
+# ** WARNING: ModelSim PE Student Edition license key will expire as of (null).
+#   Please go to http://www.model.com and download the ModelSim PE Student Edition update.
+# Loading sv_std.std
+# Loading work.tb_contador
+# Loading work.contador
+run -continue
+run -continue
+run
+# Contador:    x
+# Contador:    0
+# Contador:    1
+# Contador:    2
+# Contador:    3
+# Contador:    4
+# Contador:    5
+# Contador:    6
+# Contador:    7
+# Contador:    8
+# Contador:    9
+# Contador:   10
+run
+# Contador:   11
+# Contador:   12
+# Contador:   13
+# Contador:   14
+# Contador:   15
+# Contador:   16
+# Contador:   17
+# Contador:   18
+# Contador:   19
+# Contador:   20
+run
+# Contador:   21
+# Contador:   22
+# Contador:   23
+# Contador:   24
+# Contador:   25
+# Contador:   26
+# Contador:   27
+# Contador:   28
+# Contador:   29
+# Contador:   30
+run
+# Contador:   31
+# Contador:   32
+# Contador:   33
+# Contador:   34
+# Contador:   35
+# Contador:   36
+# Contador:   37
+# Contador:   38
+# Contador:   39
+# Contador:   40
+run
+# Contador:   41
+# Contador:   42
+# Contador:   43
+# Contador:   44
+# Contador:   45
+# Contador:   46
+# Contador:   47
+# Contador:   48
+# Contador:   49
+# Contador:   50
+run
+# Contador:   51
+# Contador:   52
+# Contador:   53
+# Contador:   54
+# Contador:   55
+# Contador:   56
+# Contador:   57
+# Contador:   58
+# Contador:   59
+# Contador:   60
+run
+# Contador:   61
+# Contador:   62
+# Contador:   63
+# Contador:   64
+# Contador:   65
+# Contador:   66
+# Contador:   67
+# Contador:   68
+# Contador:   69
+# Contador:   70
+run
+# Contador:   71
+# Contador:   72
+# Contador:   73
+# Contador:   74
+# Contador:   75
+# Contador:   76
+# Contador:   77
+# Contador:   78
+# Contador:   79
+# Contador:   80
+run
+# Contador:   81
+# Contador:   82
+# Contador:   83
+# Contador:   84
+# Contador:   85
+# Contador:   86
+# Contador:   87
+# Contador:   88
+# Contador:   89
+# Contador:   90
+run
+# Contador:   91
+# Contador:   92
+# Contador:   93
+# Contador:   94
+# Contador:   95
+# Contador:   96
+# Contador:   97
+# Contador:   98
+# Contador:   99
+# Contador:  100
+run
+# Contador:  101
+# Contador:  102
+# Contador:  103
+# Contador:  104
+# Contador:  105
+# Contador:  106
+# Contador:  107
+# Contador:  108
+# Contador:  109
+# Contador:  110
+run
+# Contador:  111
+# Contador:  112
+# Contador:  113
+# Contador:  114
+# Contador:  115
+# Contador:  116
+# Contador:  117
+# Contador:  118
+# Contador:  119
+# Contador:  120
+run
+# Contador:  121
+# Contador:  122
+# Contador:  123
+# Contador:  124
+# Contador:  125
+# Contador:  126
+# Contador:  127
+# Contador:  128
+# Contador:  129
+# Contador:  130
+run
+# Contador:  131
+# Contador:  132
+# Contador:  133
+# Contador:  134
+# Contador:  135
+# Contador:  136
+# Contador:  137
+# Contador:  138
+# Contador:  139
+# Contador:  140
+run
+# Contador:  141
+# Contador:  142
+# Contador:  143
+# Contador:  144
+# Contador:  145
+# Contador:  146
+# Contador:  147
+# Contador:  148
+# Contador:  149
+# Contador:  150
+run
+# Contador:  151
+# Contador:  152
+# Contador:  153
+# Contador:  154
+# Contador:  155
+# Contador:  156
+# Contador:  157
+# Contador:  158
+# Contador:  159
+# Contador:  160
+run
+# Contador:  161
+# Contador:  162
+# Contador:  163
+# Contador:  164
+# Contador:  165
+# Contador:  166
+# Contador:  167
+# Contador:  168
+# Contador:  169
+# Contador:  170
+run
+# Contador:  171
+# Contador:  172
+# Contador:  173
+# Contador:  174
+# Contador:  175
+# Contador:  176
+# Contador:  177
+# Contador:  178
+# Contador:  179
+# Contador:  180
+run
+# Contador:  181
+# Contador:  182
+# Contador:  183
+# Contador:  184
+# Contador:  185
+# Contador:  186
+# Contador:  187
+# Contador:  188
+# Contador:  189
+# Contador:  190
+run
+# Contador:  191
+# Contador:  192
+# Contador:  193
+# Contador:  194
+# Contador:  195
+# Contador:  196
+# Contador:  197
+# Contador:  198
+# Contador:  199
+# Contador:  200
+run
+# Contador:  201
+# Contador:  202
+# Contador:  203
+# Contador:  204
+# Contador:  205
+# Contador:  206
+# Contador:  207
+# Contador:  208
+# Contador:  209
+# Contador:  210
+run
+# Contador:  211
+# Contador:  212
+# Contador:  213
+# Contador:  214
+# Contador:  215
+# Contador:  216
+# Contador:  217
+# Contador:  218
+# Contador:  219
+# Contador:  220
+run
+# Contador:  221
+# Contador:  222
+# Contador:  223
+# Contador:  224
+# Contador:  225
+# Contador:  226
+# Contador:  227
+# Contador:  228
+# Contador:  229
+# Contador:  230
+run
+# Contador:  231
+# Contador:  232
+# Contador:  233
+# Contador:  234
+# Contador:  235
+# Contador:  236
+# Contador:  237
+# Contador:  238
+# Contador:  239
+# Contador:  240
+run
+# Contador:  241
+# Contador:  242
+# Contador:  243
+# Contador:  244
+# Contador:  245
+# Contador:  246
+# Contador:  247
+# Contador:  248
+# Contador:  249
+# Contador:  250
+run
+# Contador:  251
+# Contador:  252
+# Contador:  253
+# Contador:  254
+# Contador:  255
+# Contador:    0
+# Contador:    1
+# Contador:    2
+# Contador:    3
+# Contador:    4
+run
+# Contador:    5
+# Contador:    6
+# Contador:    7
+# Contador:    8
+# Contador:    9
+# Contador:   10
+# Contador:   11
+# Contador:   12
+# Contador:   13
+# Contador:   14
+run
+# Contador:   15
+# Contador:   16
+# Contador:   17
+# Contador:   18
+# Contador:   19
+# Contador:   20
+# Contador:   21
+# Contador:   22
+# Contador:   23
+# Contador:   24
+run
+# Contador:   25
+# Contador:   26
+# Contador:   27
+# Contador:   28
+# Contador:   29
+# Contador:   30
+# Contador:   31
+# Contador:   32
+# Contador:   33
+# Contador:   34
+run
+# Contador:   35
+# Contador:   36
+# Contador:   37
+# Contador:   38
+# Contador:   39
+# Contador:   40
+# Contador:   41
+# Contador:   42
+# Contador:   43
+# Contador:   44
+quit -sim
+# Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Contador simple/Contador simple.mpf).  File can not be renamed.
+# Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Contador simple/Contador simple.mpf).  File can not be renamed.
+vsim work.tb_contador2
+# vsim 
+# Start time: 03:23:52 on Mar 14,2017
+# Loading sv_std.std
+# Loading work.tb_contador2
+# Loading work.contador2
+run
+# Contador:   x
+# Contador:   0
+# Contador:   1
+# Contador:   2
+# Contador:   3
+# Contador:   4
+# Contador:   5
+# Contador:   6
+# Contador:   7
+# Contador:   8
+# Contador:   9
+# Contador:  10
+run
+# Contador:  11
+# Contador:  12
+# Contador:  13
+# Contador:  14
+# Contador:  15
+# Contador:  16
+# Contador:  17
+# Contador:  18
+# Contador:  19
+# Contador:  20
+run
+# Contador:  21
+# Contador:  22
+# Contador:  23
+# Contador:  24
+# Contador:  25
+# Contador:  26
+# Contador:  27
+# Contador:  28
+# Contador:  29
+# Contador:  30
+run
+# Contador:  31
+# Contador:  32
+# Contador:  33
+# Contador:  34
+# Contador:  35
+# Contador:  36
+# Contador:  37
+# Contador:  38
+# Contador:  39
+# Contador:  40
+run
+# Contador:  41
+# Contador:  42
+# Contador:  43
+# Contador:  44
+# Contador:  45
+# Contador:  46
+# Contador:  47
+# Contador:  48
+# Contador:  49
+# Contador:  50
+run
+# Contador:  51
+# Contador:  52
+# Contador:  53
+# Contador:  54
+# Contador:  55
+# Contador:  56
+# Contador:  57
+# Contador:  58
+# Contador:  59
+# Contador:  60
+run
+# Contador:  61
+# Contador:  62
+# Contador:  63
+# Contador:  64
+# Contador:  65
+# Contador:  66
+# Contador:  67
+# Contador:  68
+# Contador:  69
+# Contador:  70
+run
+# Contador:  71
+# Contador:  72
+# Contador:  73
+# Contador:  74
+# Contador:  75
+# Contador:  76
+# Contador:  77
+# Contador:  78
+# Contador:  79
+# Contador:  80
+run
+# Contador:  81
+# Contador:  82
+# Contador:  83
+# Contador:  84
+# Contador:  85
+# Contador:  86
+# Contador:  87
+# Contador:  88
+# Contador:  89
+# Contador:  90
+run
+# Contador:  91
+# Contador:  92
+# Contador:  93
+# Contador:  94
+# Contador:  95
+# Contador:  96
+# Contador:  97
+# Contador:  98
+# Contador:  99
+# Contador: 100
+run
+# Contador: 101
+# Contador: 102
+# Contador: 103
+# Contador: 104
+# Contador: 105
+# Contador: 106
+# Contador: 107
+# Contador: 108
+# Contador: 109
+# Contador: 110
+run
+# Contador: 111
+# Contador: 112
+# Contador: 113
+# Contador: 114
+# Contador: 115
+# Contador: 116
+# Contador: 117
+# Contador: 118
+# Contador: 119
+# Contador: 120
+run
+# Contador: 121
+# Contador: 122
+# Contador: 123
+# Contador: 124
+# Contador: 125
+# Contador: 126
+# Contador: 127
+# Contador: 128
+# Contador: 129
+# Contador: 130
+run
+# Contador: 131
+# Contador: 132
+# Contador: 133
+# Contador: 134
+# Contador: 135
+# Contador: 136
+# Contador: 137
+# Contador: 138
+# Contador: 139
+# Contador: 140
+run
+# Contador: 141
+# Contador: 142
+# Contador: 143
+# Contador: 144
+# Contador: 145
+# Contador: 146
+# Contador: 147
+# Contador: 148
+# Contador: 149
+# Contador: 150
+run
+# Contador: 151
+# Contador: 152
+# Contador: 153
+# Contador: 154
+# Contador: 155
+# Contador: 156
+# Contador: 157
+# Contador: 158
+# Contador: 159
+# Contador: 160
+run
+# Contador: 161
+# Contador: 162
+# Contador: 163
+# Contador: 164
+# Contador: 165
+# Contador: 166
+# Contador: 167
+# Contador: 168
+# Contador: 169
+# Contador: 170
+run
+# Contador: 171
+# Contador: 172
+# Contador: 173
+# Contador: 174
+# Contador: 175
+# Contador: 176
+# Contador: 177
+# Contador: 178
+# Contador: 179
+# Contador: 180
+run
+# Contador: 181
+# Contador: 182
+# Contador: 183
+# Contador: 184
+# Contador: 185
+# Contador: 186
+# Contador: 187
+# Contador: 188
+# Contador: 189
+# Contador: 190
+run
+# Contador: 191
+# Contador: 192
+# Contador: 193
+# Contador: 194
+# Contador: 195
+# Contador: 196
+# Contador: 197
+# Contador: 198
+# Contador: 199
+# Contador: 200
+run
+# Contador: 201
+# Contador: 202
+# Contador: 203
+# Contador: 204
+# Contador: 205
+# Contador: 206
+# Contador: 207
+# Contador: 208
+# Contador: 209
+# Contador: 210
+run
+# Contador: 211
+# Contador: 212
+# Contador: 213
+# Contador: 214
+# Contador: 215
+# Contador: 216
+# Contador: 217
+# Contador: 218
+# Contador: 219
+# Contador: 220
+run
+# Contador: 221
+# Contador: 222
+# Contador: 223
+# Contador: 224
+# Contador: 225
+# Contador: 226
+# Contador: 227
+# Contador: 228
+# Contador: 229
+# Contador: 230
+run
+# Contador: 231
+# Contador: 232
+# Contador: 233
+# Contador: 234
+# Contador: 235
+# Contador: 236
+# Contador: 237
+# Contador: 238
+# Contador: 239
+# Contador: 240
+run
+# Contador: 241
+# Contador: 242
+# Contador: 243
+# Contador: 244
+# Contador: 245
+# Contador: 246
+# Contador: 247
+# Contador: 248
+# Contador: 249
+# Contador: 250
+run
+# Contador: 251
+# Contador: 250
+# Contador: 249
+# Contador: 248
+# Contador: 247
+# Contador: 246
+# Contador: 245
+# Contador: 244
+# Contador: 243
+# Contador: 242
+run
+# Contador: 241
+# Contador: 240
+# Contador: 239
+# Contador: 238
+# Contador: 237
+# Contador: 236
+# Contador: 235
+# Contador: 234
+# Contador: 233
+# Contador: 232
+run
+# Contador: 231
+# Contador: 230
+# Contador: 229
+# Contador: 228
+# Contador: 227
+# Contador: 226
+# Contador: 225
+# Contador: 224
+# Contador: 223
+# Contador: 222
+run
+# Contador: 221
+# Contador: 220
+# Contador: 219
+# Contador: 218
+# Contador: 217
+# Contador: 216
+# Contador: 215
+# Contador: 214
+# Contador: 213
+# Contador: 212
+run
+# Contador: 211
+# Contador: 210
+# Contador: 209
+# Contador: 208
+# Contador: 207
+# Contador: 206
+# Contador: 205
+# Contador: 204
+# Contador: 203
+# Contador: 202
+run
+# Contador: 201
+# Contador: 200
+# Contador: 199
+# Contador: 198
+# Contador: 197
+# Contador: 196
+# Contador: 195
+# Contador: 194
+# Contador: 193
+# Contador: 192
+run
+# Contador: 191
+# Contador: 190
+# Contador: 189
+# Contador: 188
+# Contador: 187
+# Contador: 186
+# Contador: 185
+# Contador: 184
+# Contador: 183
+# Contador: 182
+run
+# Contador: 181
+# Contador: 180
+# Contador: 179
+# Contador: 178
+# Contador: 177
+# Contador: 176
+# Contador: 175
+# Contador: 174
+# Contador: 173
+# Contador: 172
+run
+# Contador: 171
+# Contador: 170
+# Contador: 169
+# Contador: 168
+# Contador: 167
+# Contador: 166
+# Contador: 165
+# Contador: 164
+# Contador: 163
+# Contador: 162
+run
+# Contador: 161
+# Contador: 160
+# Contador: 159
+# Contador: 158
+# Contador: 157
+# Contador: 156
+# Contador: 155
+# Contador: 154
+# Contador: 153
+# Contador: 152
+run
+# Contador: 151
+# Contador: 150
+# Contador: 149
+# Contador: 148
+# Contador: 147
+# Contador: 146
+# Contador: 145
+# Contador: 144
+# Contador: 143
+# Contador: 142
+run
+# Contador: 141
+# Contador: 140
+# Contador: 139
+# Contador: 138
+# Contador: 137
+# Contador: 136
+# Contador: 135
+# Contador: 134
+# Contador: 133
+# Contador: 132
+run
+# Contador: 131
+# Contador: 130
+# Contador: 129
+# Contador: 128
+# Contador: 127
+# Contador: 126
+# Contador: 125
+# Contador: 124
+# Contador: 123
+# Contador: 122
+run
+# Contador: 121
+# Contador: 120
+# Contador: 119
+# Contador: 118
+# Contador: 117
+# Contador: 116
+# Contador: 115
+# Contador: 114
+# Contador: 113
+# Contador: 112
+run
+# Contador: 111
+# Contador: 110
+# Contador: 109
+# Contador: 108
+# Contador: 107
+# Contador: 106
+# Contador: 105
+# Contador: 104
+# Contador: 103
+# Contador: 102
+run
+# Contador: 101
+# Contador: 100
+# Contador:  99
+# Contador:  98
+# Contador:  97
+# Contador:  96
+# Contador:  95
+# Contador:  94
+# Contador:  93
+# Contador:  92
+run
+# Contador:  91
+# Contador:  90
+# Contador:  89
+# Contador:  88
+# Contador:  87
+# Contador:  86
+# Contador:  85
+# Contador:  84
+# Contador:  83
+# Contador:  82
+run
+# Contador:  81
+# Contador:  80
+# Contador:  79
+# Contador:  78
+# Contador:  77
+# Contador:  76
+# Contador:  75
+# Contador:  74
+# Contador:  73
+# Contador:  72
+run
+# Contador:  71
+# Contador:  70
+# Contador:  69
+# Contador:  68
+# Contador:  67
+# Contador:  66
+# Contador:  65
+# Contador:  64
+# Contador:  63
+# Contador:  62
+run
+# Contador:  61
+# Contador:  60
+# Contador:  59
+# Contador:  58
+# Contador:  57
+# Contador:  56
+# Contador:  55
+# Contador:  54
+# Contador:  53
+# Contador:  52
+run
+# Contador:  51
+# Contador:  50
+# Contador:  49
+# Contador:  48
+# Contador:  47
+# Contador:  46
+# Contador:  45
+# Contador:  44
+# Contador:  43
+# Contador:  42
+run
+# Contador:  41
+# Contador:  40
+# Contador:  39
+# Contador:  38
+# Contador:  37
+# Contador:  36
+# Contador:  35
+# Contador:  34
+# Contador:  33
+# Contador:  32
+run
+# Contador:  31
+# Contador:  30
+# Contador:  29
+# Contador:  28
+# Contador:  27
+# Contador:  26
+# Contador:  25
+# Contador:  24
+# Contador:  23
+# Contador:  22
+run
+# Contador:  21
+# Contador:  20
+# Contador:  19
+# Contador:  18
+# Contador:  17
+# Contador:  16
+# Contador:  15
+# Contador:  14
+# Contador:  13
+# Contador:  12
+run
+# Contador:  11
+# Contador:  10
+# Contador:   9
+# Contador:   8
+# Contador:   7
+# Contador:   6
+# Contador:   5
+# Contador:   4
+# Contador:   3
+# Contador:   2
+run
+# Contador:   1
+# Contador:   0
+run
+run
+# End time: 03:24:34 on Mar 14,2017, Elapsed time: 0:00:42
+# Errors: 0, Warnings: 0

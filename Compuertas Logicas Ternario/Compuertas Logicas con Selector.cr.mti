@@ -1,0 +1,15 @@
+{C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/Compuertas Logicas.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/Compuertas Logicas.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module compuertasLogicas
+
+Top level modules:
+	compuertasLogicas
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/tb_Compuertas Logicas.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/tb_Compuertas Logicas.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_compuertasLogicas
+
+Top level modules:
+	tb_compuertasLogicas
+
+} {} {}}

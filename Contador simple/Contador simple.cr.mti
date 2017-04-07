@@ -1,0 +1,19 @@
+{C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Contador simple/contador.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Contador simple/contador.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module contador
+-- Compiling module contador2
+
+Top level modules:
+	contador
+	contador2
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Contador simple/test bench.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Contador simple/test bench.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_contador
+-- Compiling module tb_contador2
+
+Top level modules:
+	tb_contador
+	tb_contador2
+
+} {} {}}

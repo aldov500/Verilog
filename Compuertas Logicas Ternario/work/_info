@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vcompuertasLogicas
+Z0 !s110 1488668099
+!i10b 1
+!s100 c]]g`hnDYYoJJz<L[a:`_0
+IhabZZd?Q55]W8NbbQNIVl2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario
+w1488666141
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/Compuertas Logicas.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/Compuertas Logicas.v
+L0 9
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1488668099.000000
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/Compuertas Logicas.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/Compuertas Logicas.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+ncompuertas@logicas
+vtb_compuertasLogicas
+R0
+!i10b 1
+!s100 N1:5NdNzEjSkEWO@1GoP71
+InhLNh3iPTLjzAEMESGe=J1
+R1
+R2
+w1488668095
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/tb_Compuertas Logicas.v
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/tb_Compuertas Logicas.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/tb_Compuertas Logicas.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Compuertas Logicas Operador Ternario/tb_Compuertas Logicas.v|
+!s101 -O0
+!i113 1
+R5
+ntb_compuertas@logicas

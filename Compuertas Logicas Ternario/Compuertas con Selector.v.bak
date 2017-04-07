@@ -1,0 +1,39 @@
+/*Modulo compuertas Logicas
+3 entradas|Selector de 6 opciones|con Operador Ternario*/
+
+module compuertasLogicas(in1,in2,in3,encendido,selector,salida);
+	input wire in1,in2, in3, encendido;
+	input wire [2:0]selector;
+	output reg salida;
+
+	always@(*) begin
+	salida =(selector==3'b001) ? (in1 & in2 & in3):	//AND
+		(selector==3'b010) ? (in1 | in2 | in3):		//OR
+		(selector==3'b011) ? (in1 ^ in2 ^ in3):		//XOR
+		(selector==3'b100) ? !(in1 & in2 & in3):	//NAND
+		(selector==3'b101) ? !(in1 | in2 | in3):	//NOR
+		(selector==3'b110) ? !(in1 ^ in2 ^ in3):	//XNOR
+					 (1'b0);	//DEFAULT
+	end
+endmodule 
+
+/*Modulo compuertas Logicas
+3 entradas|Selector de 6 opciones|con case*/
+module compuertasLogicasCase(in1, in2, in3, encendido,selector,salida);
+	input wire in1, in2, in3, encendido;
+	input wire [2:0]selector;
+	output reg salida;
+
+	always @(*) begin
+	case (selector)
+		3'b001: salida =  (in1 & in2 & in3);		//AND
+		3'b010: salida =  (in1 | in2 | in3);		//OR
+		3'b011: salida =  (in1 ^ in2 ^ in3);		//XOR
+		3'b100: salida = !(in1 & in2 & in3);		//NAND
+		3'b101: salida = !(in1 | in1 | in3);		//XNOR
+		
+		default:salida = 0;
+
+	endcase
+	end	
+endmodule 

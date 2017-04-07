@@ -1,0 +1,75 @@
+/*Modulo Test Bench para Compuertas Logicas con Selector*/
+module testbench_compuertasLogicas(
+/*Salidas*/
+output reg tb1,
+output reg tb2,
+output reg tb3,
+output reg encendido,
+output reg [2:0]selector,
+/*Entrada*/
+input wire salida
+);
+integer i;
+
+/*Conexiones*/
+compuertasLogicas conexion(
+	.in1(tb1),
+	.in2(tb2),
+	.in3(tb3),
+	.encendido(encendido),
+	.selector(selector),
+	.salida(salida)
+);
+
+initial begin
+$monitor("ENCENDIDO[%b]|SELECTOR[%b]|ENTRADAS[%b%b%b]|||SALIDA[%b]...",encendido,selector,tb1,tb2,tb3,salida);
+/*Excitacion de modulo compuertasLogicas*/
+	encendido = 0;
+	selector = 0;
+	#10;
+	/*Loop For para ciclar el valor del selector e incrementarlo por uno despues de cada ciclo
+	 *de esta manera, cada ciclo cumple con una funcion logica diferente.*/
+	encendido = 1;
+	for(i=1;i<8;i=i+1)begin
+	/*Selector toma el valor de "i" asignandole una funcion lógica*/
+	selector = i; //de 1 a 7
+	/*Manejamos las entradas del modulo compuertasLogicas*/
+	tb1 = 0;
+	tb2 = 0;
+	tb3 = 0;
+	#10;
+	tb1 = 1;
+	tb2 = 0;
+	tb3 = 0;
+	#10;
+	tb1 = 0;
+	tb2 = 1;
+	tb3 = 0;
+	#10;
+	tb1 = 1;
+	tb2 = 1;
+	tb3 = 0;
+	#10;
+	tb1 = 0;
+	tb2 = 0;
+	tb3 = 1;
+	#10;
+	tb1 = 1;
+	tb2 = 0;
+	tb3 = 1;
+	#10;
+	tb1 = 0;
+	tb2 = 1;
+	tb3 = 1;
+	#10;
+	tb1 = 1;
+	tb2 = 1;
+	tb3 = 1;
+	#10;
+
+	end
+
+end
+
+endmodule
+
