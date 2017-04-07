@@ -1,0 +1,172 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile C:/Users/Aldo/Pendientes/UART/Recepeptor/Receptor.mpf
+# Loading project Receptor
+vsim work.TB_UART_RX
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\Aldo\Pendientes\UART\Recepeptor\Receptor.mpf 
+# Start time: 15:22:09 on Feb 11,2017
+# Loading work.TB_UART_RX
+# Loading work.UART_RX
+add wave -position insertpoint sim:/TB_UART_RX/*
+run
+# Salida de TX: 00000000 y 0 Estado: 0 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 1 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 1 Transmision: 0 Contador    1
+# Salida de TX: 00000000 y 1 Estado: 1 Transmision: 0 Contador    2
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    1
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    2
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    3
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    4
+# Salida de TX: 00000000 y 1 Estado: 3 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    0
+run
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    1
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    2
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    3
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    4
+# Salida de TX: 00000000 y 1 Estado: 3 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    1
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    2
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    3
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    4
+run
+# Salida de TX: 00000000 y 1 Estado: 3 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    1
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    2
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    3
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    4
+# Salida de TX: 00000000 y 1 Estado: 3 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    1
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    2
+run
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    3
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    4
+# Salida de TX: 00000000 y 1 Estado: 3 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    1
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    2
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    3
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    4
+# Salida de TX: 00000000 y 1 Estado: 3 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    0
+run
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    1
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    2
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    3
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    4
+# Salida de TX: 00000000 y 1 Estado: 3 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    1
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    2
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    3
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    4
+run
+# Salida de TX: 00000000 y 1 Estado: 3 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    1
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    2
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 0 Contador    3
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 0 Contador    4
+# Salida de TX: 00000000 y 1 Estado: 4 Transmision: 0 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 0 Transmision: 1 Contador    0
+# Salida de TX: 00000000 y 1 Estado: 0 Transmision: 1 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 1 Transmision: 1 Contador    0
+run
+# Salida de TX: 00000000 y 1 Estado: 1 Transmision: 1 Contador    1
+# Salida de TX: 00000000 y 0 Estado: 1 Transmision: 1 Contador    2
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 1 Contador    1
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 00000000 y 0 Estado: 2 Transmision: 1 Contador    3
+# Salida de TX: 00000000 y 1 Estado: 2 Transmision: 1 Contador    4
+# Salida de TX: 00000000 y 0 Estado: 3 Transmision: 1 Contador    0
+# Salida de TX: 11000000 y 1 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 11000000 y 0 Estado: 2 Transmision: 1 Contador    1
+run
+# Salida de TX: 11000000 y 1 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 11000000 y 0 Estado: 2 Transmision: 1 Contador    3
+# Salida de TX: 11000000 y 1 Estado: 2 Transmision: 1 Contador    4
+# Salida de TX: 11000000 y 0 Estado: 3 Transmision: 1 Contador    0
+# Salida de TX: 11100000 y 1 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 11100000 y 0 Estado: 2 Transmision: 1 Contador    1
+# Salida de TX: 11100000 y 1 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 11100000 y 0 Estado: 2 Transmision: 1 Contador    3
+# Salida de TX: 11100000 y 1 Estado: 2 Transmision: 1 Contador    4
+# Salida de TX: 11100000 y 0 Estado: 3 Transmision: 1 Contador    0
+run
+# Salida de TX: 11110000 y 1 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 11110000 y 0 Estado: 2 Transmision: 1 Contador    1
+# Salida de TX: 11110000 y 1 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 11110000 y 0 Estado: 2 Transmision: 1 Contador    3
+# Salida de TX: 11110000 y 1 Estado: 2 Transmision: 1 Contador    4
+# Salida de TX: 11110000 y 0 Estado: 3 Transmision: 1 Contador    0
+# Salida de TX: 11111000 y 1 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 11111000 y 0 Estado: 2 Transmision: 1 Contador    1
+# Salida de TX: 11111000 y 1 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 11111000 y 0 Estado: 2 Transmision: 1 Contador    3
+run
+# Salida de TX: 11111000 y 1 Estado: 2 Transmision: 1 Contador    4
+# Salida de TX: 11111000 y 0 Estado: 3 Transmision: 1 Contador    0
+# Salida de TX: 11111100 y 1 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 11111100 y 0 Estado: 2 Transmision: 1 Contador    1
+# Salida de TX: 11111100 y 1 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 11111100 y 0 Estado: 2 Transmision: 1 Contador    3
+# Salida de TX: 11111100 y 1 Estado: 2 Transmision: 1 Contador    4
+# Salida de TX: 11111100 y 0 Estado: 3 Transmision: 1 Contador    0
+# Salida de TX: 11111110 y 1 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 11111110 y 0 Estado: 2 Transmision: 1 Contador    1
+run
+# Salida de TX: 11111110 y 1 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 11111110 y 0 Estado: 2 Transmision: 1 Contador    3
+# Salida de TX: 11111110 y 0 Estado: 2 Transmision: 1 Contador    4
+# Salida de TX: 11111110 y 0 Estado: 3 Transmision: 1 Contador    0
+# Salida de TX: 00111111 y 0 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 00111111 y 0 Estado: 2 Transmision: 1 Contador    1
+# Salida de TX: 00111111 y 0 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 00111111 y 0 Estado: 2 Transmision: 1 Contador    3
+# Salida de TX: 00111111 y 0 Estado: 2 Transmision: 1 Contador    4
+# Salida de TX: 00111111 y 0 Estado: 3 Transmision: 1 Contador    0
+run
+# Salida de TX: 00011111 y 0 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 00011111 y 0 Estado: 2 Transmision: 1 Contador    1
+# Salida de TX: 00011111 y 0 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 00011111 y 0 Estado: 2 Transmision: 1 Contador    3
+# Salida de TX: 00011111 y 0 Estado: 2 Transmision: 1 Contador    4
+# Salida de TX: 00011111 y 0 Estado: 4 Transmision: 1 Contador    0
+# Salida de TX: 00011111 y 0 Estado: 0 Transmision: 1 Contador    0
+# Salida de TX: 00011111 y 0 Estado: 1 Transmision: 1 Contador    0
+# Salida de TX: 00011111 y 0 Estado: 1 Transmision: 1 Contador    1
+# Salida de TX: 00011111 y 0 Estado: 1 Transmision: 1 Contador    2
+run
+# Salida de TX: 00011111 y 0 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 00011111 y 0 Estado: 2 Transmision: 1 Contador    1
+# Salida de TX: 00011111 y 0 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 00011111 y 0 Estado: 2 Transmision: 1 Contador    3
+# Salida de TX: 00011111 y 0 Estado: 2 Transmision: 1 Contador    4
+# Salida de TX: 00011111 y 0 Estado: 3 Transmision: 1 Contador    0
+# Salida de TX: 00001111 y 0 Estado: 2 Transmision: 1 Contador    0
+# Salida de TX: 00001111 y 0 Estado: 2 Transmision: 1 Contador    1
+# Salida de TX: 00001111 y 0 Estado: 2 Transmision: 1 Contador    2
+# Salida de TX: 00001111 y 0 Estado: 2 Transmision: 1 Contador    3
+quit -sim

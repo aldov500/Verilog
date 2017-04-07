@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Aldo/Pendientes/UART/Transmisor
+vTB_UART_RX
+Z0 !s110 1485973611
+!i10b 1
+!s100 6DJ9LdJaozEnQ4@M`WoCG3
+IziTUa7:8^nlFM309M4z`n1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Aldo/Pendientes/UART/Recepeptor
+w1485973607
+8C:\Users\Aldo\Pendientes\UART\Recepeptor\TB_Receptor.v
+FC:\Users\Aldo\Pendientes\UART\Recepeptor\TB_Receptor.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1485973611.000000
+!s107 C:\Users\Aldo\Pendientes\UART\Recepeptor\TB_Receptor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Aldo\Pendientes\UART\Recepeptor\TB_Receptor.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@t@b_@u@a@r@t_@r@x
+vUART_RX
+R0
+!i10b 1
+!s100 2z4WFaW@a[?PMCHm[@?AI1
+I4gZbdChBE<Ff>[k?@I02Q1
+R1
+R2
+w1485923189
+8C:\Users\Aldo\Pendientes\UART\Recepeptor\Receptor.v
+FC:\Users\Aldo\Pendientes\UART\Recepeptor\Receptor.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\Aldo\Pendientes\UART\Recepeptor\Receptor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Aldo\Pendientes\UART\Recepeptor\Receptor.v|
+!s101 -O0
+!i113 1
+R5
+n@u@a@r@t_@r@x

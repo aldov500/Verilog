@@ -1,0 +1,15 @@
+C:/Users/Aldo/Pendientes/UART/Recepeptor/Receptor.v {1 {vlog -work work -stats=none {C:\Users\Aldo\Pendientes\UART\Recepeptor\Receptor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module UART_RX
+
+Top level modules:
+	UART_RX
+
+} {} {}} C:/Users/Aldo/Pendientes/UART/Recepeptor/TB_Receptor.v {1 {vlog -work work -stats=none {C:\Users\Aldo\Pendientes\UART\Recepeptor\TB_Receptor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TB_UART_RX
+
+Top level modules:
+	TB_UART_RX
+
+} {} {}}
