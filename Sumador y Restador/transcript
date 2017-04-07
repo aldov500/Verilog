@@ -1,0 +1,55 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/Sumador y Restador/Sumador y Restador.mpf}
+# Loading project Sumador y Restador
+# Compile of sumador y restador.v was successful.
+# Compile of tb_Sum_Rest.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_Sum_Rest
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\Aldo\Google Drive\Programacion\Verilog & System Verilog\Workspace\Sumador y Restador\Sumador y Restador.mpf 
+# Start time: 11:32:09 on Jan 22,2017
+# Loading work.tb_Sum_Rest
+# Loading work.Sum_Rest
+run
+# Inicializando variables...
+# Modo Sumador Seleccionado.
+# Inicia Suma: 
+# ENT1[ 0] ENT2[15] SAL[15]
+# ENT1[ 1] ENT2[13] SAL[14]
+# ENT1[ 2] ENT2[11] SAL[13]
+# ENT1[ 3] ENT2[ 9] SAL[12]
+# ENT1[ 4] ENT2[ 7] SAL[11]
+# ENT1[ 5] ENT2[ 5] SAL[10]
+# ENT1[ 6] ENT2[ 3] SAL[ 9]
+# ENT1[ 7] ENT2[ 1] SAL[ 8]
+# ENT1[15] ENT2[ 0] SAL[15]
+# Inicializando variables...
+# Modo Restador Seleccionado.
+# Inicia resta: 
+# ENT1[15] ENT2[ 0] SAL[15]
+# ENT1[14] ENT2[ 1] SAL[13]
+# ENT1[13] ENT2[ 2] SAL[11]
+# ENT1[12] ENT2[ 3] SAL[ 9]
+# ENT1[11] ENT2[ 4] SAL[ 7]
+# ENT1[10] ENT2[ 5] SAL[ 5]
+# ENT1[ 9] ENT2[ 6] SAL[ 3]
+# ENT1[ 8] ENT2[ 7] SAL[ 1]
+# End time: 11:32:27 on Jan 22,2017, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 0

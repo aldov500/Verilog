@@ -1,0 +1,15 @@
+{C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Verilog/Curso Verilog con ModelSim/02- Sumador y Restador/sumador y restador.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Verilog/Curso Verilog con ModelSim/02- Sumador y Restador/sumador y restador.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Sum_Rest
+
+Top level modules:
+	Sum_Rest
+
+} {} {}} {C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Verilog/Curso Verilog con ModelSim/02- Sumador y Restador/tb_Sum_Rest.v} {1 {vlog -work work -stats=none {C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Verilog/Curso Verilog con ModelSim/02- Sumador y Restador/tb_Sum_Rest.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_Sum_Rest
+
+Top level modules:
+	tb_Sum_Rest
+
+} {} {}}
