@@ -1,0 +1,24 @@
+/*	Interface UART		*/
+
+interface uartIf(input wire clk);
+	logic clr;		//	Reset
+	logic ready;		//	Enviar ahora
+	logic txD;		//	Salida del transmisor
+	logic tdre;		//	Envio completo
+	logic [7:0]tx_data;	//	Datos a enviar
+
+	logic RxD;		//	Conexion para el Transmisor
+	logic rdrf_clr;		//	Reset señal de Envio Completo
+	logic rdrf;		//	Recepcion completa
+	logic FE;		//	Paridad
+	logic [7:0]rx_data;	//	Salida de UART
+
+	
+
+	modport TX(input clk, clr, ready, tx_data, output txD, tdre);
+	
+	modport RX(input clk, clr, tdre, txD, RxD, rdrf_clr, output rdrf, rx_data, FE );
+
+
+endinterface
+

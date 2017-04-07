@@ -1,0 +1,154 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Aldo/Pendientes/UART/Recepeptor
+vmonitor
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1491097858
+!i10b 1
+!s100 MA>7ELmN91LlVa@LL0`f>1
+Id?UmdJ[4]IkXKHj6Kan9h0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 uartMON_sv_unit
+S1
+Z3 dC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full
+w1491097730
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartMON.sv
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartMON.sv
+L0 4
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1491097858.000000
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartMON.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartMON.sv|
+!s101 -O0
+!i113 1
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtest_bench_uart
+R0
+R1
+!i10b 1
+!s100 _V>nZY9<JG=X1zK1:khMf3
+I2GeCEBOABV=>MDEjH:0a50
+R2
+!s105 uartTB_sv_unit
+S1
+R3
+w1491097768
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTB.sv
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTB.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTB.sv|
+!s101 -O0
+!i113 1
+R6
+vtop_uart
+R0
+R1
+!i10b 1
+!s100 57`3SbGJI5:Z]X`0:f7ND3
+Ie5UG@TaOk4D]lF`z8ZAHI1
+R2
+!s105 uartTop_sv_unit
+S1
+R3
+w1491097749
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTop.sv
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTop.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTop.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTop.sv|
+!s101 -O0
+!i113 1
+R6
+Yuart_if
+R0
+Z7 !s110 1491097857
+!i10b 1
+!s100 [Q;igDczlEEUV5Z[X[FBa2
+IGTEmFEG0>YhPaPQh?Dd_N0
+R2
+!s105 uartIF_sv_unit
+S1
+R3
+w1491097760
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartIF.sv
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartIF.sv
+L0 4
+R4
+r1
+!s85 0
+31
+Z8 !s108 1491097857.000000
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartIF.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartIF.sv|
+!s101 -O0
+!i113 1
+R6
+vuart_rx
+R0
+R1
+!i10b 1
+!s100 :GQeUeFEWeiFWVJfmRc;J3
+I0nC02:bC26?P44<fI?OXa1
+R2
+!s105 uartRX_sv_unit
+S1
+R3
+w1491097728
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartRX.sv
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartRX.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartRX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartRX.sv|
+!s101 -O0
+!i113 1
+R6
+vuart_tx
+R0
+R7
+!i10b 1
+!s100 n<m7X@TPFBEP@LjO9W=8I3
+I<k_fJj=?Xd2eCUh5W_O3G2
+R2
+!s105 uartTX_sv_unit
+S1
+R3
+w1491097734
+8C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTX.sv
+FC:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTX.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTX.sv|
+!s101 -O0
+!i113 1
+R6

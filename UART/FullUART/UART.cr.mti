@@ -1,0 +1,43 @@
+{C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartRX.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartRX.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module uart_rx
+
+Top level modules:
+	uart_rx
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTB.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTB.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_bench_uart
+
+Top level modules:
+	test_bench_uart
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartMON.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartMON.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module monitor
+
+Top level modules:
+	monitor
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartIF.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartIF.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling interface uart_if
+
+Top level modules:
+	--none--
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTop.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTop.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top_uart
+
+Top level modules:
+	top_uart
+
+} {} {}} {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTX.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Aldo/Google Drive/Programacion/Verilog & System Verilog/Workspace/UART/Uart full/uartTX.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module uart_tx
+
+Top level modules:
+	uart_tx
+
+} {} {}}
