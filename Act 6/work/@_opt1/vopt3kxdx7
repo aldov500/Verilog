@@ -1,0 +1,74 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\AldoVargas\CUCEI\Verificacion de Circuitos\Act 05
+T_opt
+V_8jZ`fQa:>=VaNWWM;_020
+04 10 4 work test_bench fast 0
+=1-dca97136cefa-56bbcd65-15e-1f0c
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dC:\Users\AldoVargas\CUCEI\Verificacion de Circuitos\Act 05
+T_opt1
+V41h]jFBBFm@d;RFi[@iYl0
+04 5 4 work mealy fast 0
+=1-dca97136cefa-56bbce95-1f5-1968
+R1
+n@_opt1
+R2
+vmealy
+!s100 SoMPgWW4GdKR]Xk0@[hME0
+IBTXSUnfnzO3dn42bgI]DO1
+V1NVTOO[]2n:eml4GzfI]G2
+Z4 dC:\Users\AldoVargas\CUCEI\Verificacion de Circuitos\Act 06
+w1455148311
+8C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/maquina_estados.v
+FC:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/maquina_estados.v
+L0 3
+Z5 OL;L;10.1c;51
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/maquina_estados.v|
+Z6 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s108 1455148682.585000
+!s107 C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/maquina_estados.v|
+!i10b 1
+!s85 0
+vmoore
+!s100 5RbWGhSM=Y7idP5S<PnXz2
+I>?boF2?9z>;nV<Q=C^Ud]0
+VMf@X9KXIERkEEKVoP@O^f0
+R4
+w1455148131
+8C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/moore.v
+FC:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/moore.v
+L0 3
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/moore.v|
+R6
+!i10b 1
+!s85 0
+!s108 1455148682.935000
+!s107 C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/moore.v|
+vtest_bench
+I4fB13B9=CcPF:Jf4[f8V@3
+V8Z4Q<@c2;D2Z4o>cHQ68<3
+R4
+w1455148676
+8C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench.v
+FC:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench.v
+L0 1
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench.v|
+R6
+!s100 e5?:ODMX<P??oRhU7c@zV2
+!s108 1455148682.725000
+!s107 C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench.v|
+!i10b 1
+!s85 0

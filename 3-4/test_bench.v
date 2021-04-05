@@ -1,0 +1,50 @@
+module test_bench(
+  output reg[3:0]a,
+  output reg[3:0]b,
+  output reg dec_enable,
+  output reg[1:0]dec_selector,
+  input wire[3:0]or_out,
+  input wire[3:0]nand_out,
+  input wire[3:0]xor_out,
+  input wire[3:0]and_out,
+  input [3:0]mux_out
+  );
+  
+  decodificador tb1(
+    .dec_enable(dec_enable),
+    .dec_selector(dec_selector)
+  );
+  and_gate tb2(
+    .and_a(a),
+    .and_b(b),
+    .and_out(and_out)
+  );
+   multiplexor tb3(
+    .mux_out(mux_out)
+  );
+  or_gate tb4(
+    .or_a(a),
+    .or_b(b),
+    .or_out(or_out)
+  );
+  xor_gate tb5(
+    .xor_a(a),
+    .xor_b(b),
+    .xor_out(xor_out)
+  );
+  nand_gate tb6(
+    .nand_a(a),
+    .nand_b(b),
+    .nand_out(nand_out)
+  );
+ 
+initial begin
+  dec_enable=1'b1;
+  dec_selector=2'b00;
+  #10;
+  a=4'b1001;
+  b=4'b0001;
+  #10;
+  end
+endmodule
+

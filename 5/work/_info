@@ -1,0 +1,43 @@
+m255
+K3
+z0
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\examples
+T_opt
+V_`nhAR:OJ<NeY>oeTZCmB3
+Z1 04 8 4 work contador fast 0
+=1-dca97136cefa-56b7a87b-2d8-1d84
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z2 OL;O;10.1c;51
+R0
+T_opt1
+VdN[3T1iGAloC^B`;=R`1n2
+R1
+=1-dca97136cefa-56b7aa64-107-1458
+o-quiet -auto_acc_if_foreign -work work
+n@_opt1
+R2
+R0
+vcontador
+!s110 1479103032
+!i10b 1
+!s100 HonQjEHOR5BZ>]4JDX=]V3
+IaRQV>GUK@^n>ZkeOeI;:I1
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/5
+w1454878027
+8C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/5/AAVM_TAREA_05.v
+FC:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/5/AAVM_TAREA_05.v
+L0 4
+OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1479103032.000000
+!s107 C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/5/AAVM_TAREA_05.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/5/AAVM_TAREA_05.v|
+!s101 -O0
+!i113 1
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0

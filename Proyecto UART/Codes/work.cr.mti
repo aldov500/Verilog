@@ -1,0 +1,13 @@
+{C:/Users/Aldo/Pendientes/Verificacion/UART/Codes/Proyecto Final/top_uart.sv} {1 {vlog -work work -vopt -sv {C:/Users/Aldo/Pendientes/Verificacion/UART/Codes/Proyecto Final/top_uart.sv}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module top_uart
+-- Compiling interface uart_if
+-- Compiling module test_bench_uart
+-- Compiling module monitor
+-- Compiling module uart_tx
+-- Compiling module uart_rx
+
+Top level modules:
+	top_uart
+
+} {} {}}

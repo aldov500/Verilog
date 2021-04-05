@@ -1,0 +1,138 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\AldoVargas\Desktop\Desde el MUX
+T_opt
+Vean4AnP9_cS@FaG?n>Pon0
+04 10 4 work test_bench fast 0
+=1-dca97136cefa-56b01096-9c-2248
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vand_gate
+IGFn7>?7OWRnY3K`M_V@5P3
+VCz0FWL0[@Heh7Q@=hQ3`U2
+Z0 dC:\Users\AldoVargas\Desktop\Actividad 03
+Z1 w1454378690
+Z2 8C:/Users/AldoVargas/Desktop/Actividad 03/gates.v
+Z3 FC:/Users/AldoVargas/Desktop/Actividad 03/gates.v
+L0 2
+Z4 OL;L;10.1c;51
+r1
+31
+Z5 !s108 1454379065.068000
+Z6 !s107 C:/Users/AldoVargas/Desktop/Actividad 03/gates.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/Desktop/Actividad 03/gates.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 nCXU;YE;DYT3UF@Qm[MJ10
+!i10b 1
+!s85 0
+vdecodificador
+IR^?SAmR:Z`famf;n5lTX]3
+VPE6l`Zeco_f1YDf@ddgHe3
+Z9 dC:\Users\AldoVargas\Desktop\Actividad 03
+w1454379064
+8C:/Users/AldoVargas/Desktop/Actividad 03/decodificador.v
+FC:/Users/AldoVargas/Desktop/Actividad 03/decodificador.v
+L0 2
+R4
+r1
+31
+R8
+!s100 ogKK<85P;aLhZihSd9Djd1
+!s108 1454379064.757000
+!s107 C:/Users/AldoVargas/Desktop/Actividad 03/decodificador.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/Desktop/Actividad 03/decodificador.v|
+!i10b 1
+!s85 0
+vmultiplexor
+I>[l4B2OoYfP?Rz]D0mBeF0
+VegSFVZlOkb64nBOCLdRKe3
+R9
+w1454378692
+8C:/Users/AldoVargas/Desktop/Actividad 03/multiplexor.v
+FC:/Users/AldoVargas/Desktop/Actividad 03/multiplexor.v
+L0 2
+R4
+r1
+31
+R8
+!s100 J5aFCiil1S>>d^A8XLG]i1
+!s108 1454379065.444000
+!s107 C:/Users/AldoVargas/Desktop/Actividad 03/multiplexor.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/Desktop/Actividad 03/multiplexor.v|
+!i10b 1
+!s85 0
+vnand_gate
+I<QNPoY`_kL2z[4@`YA3ZJ2
+VZNBNQWa1zQ2Ind1g5S;gJ1
+R9
+R1
+R2
+R3
+L0 24
+R4
+r1
+31
+R5
+R6
+R7
+R8
+!s100 7`iT[42n1X4hi6;MURlR23
+!i10b 1
+!s85 0
+vor_gate
+Ifn=7ZD0ji3;D6ke@SeX4=0
+VMITzI7^B@:KViFOGZ=KNn0
+R9
+R1
+R2
+R3
+L0 13
+R4
+r1
+31
+R5
+R6
+R7
+R8
+!s100 lh@=4DVYoN^Zac5AL=Sl70
+!i10b 1
+!s85 0
+vtest_bench
+!s100 JBR;UYP0O2WkhfD?OiI>J1
+Ijo2Z^<AK?ZkM=olnF@joD1
+VkNz_8`1k7jD?2e7FC4Qg;0
+R9
+w1454378823
+8C:/Users/AldoVargas/Desktop/Actividad 03/test_bench.v
+FC:/Users/AldoVargas/Desktop/Actividad 03/test_bench.v
+L0 1
+R4
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/Desktop/Actividad 03/test_bench.v|
+R8
+!i10b 1
+!s85 0
+!s108 1454379065.623000
+!s107 C:/Users/AldoVargas/Desktop/Actividad 03/test_bench.v|
+vxor_gate
+I?Y?P>F[YLh6MNjR_=F7DE0
+VH645zz;J7l>D0RnNCM>Bz2
+R9
+R1
+R2
+R3
+L0 35
+R4
+r1
+31
+R5
+R6
+R7
+R8
+!s100 BeGkd6YSPh:VbXH?fhijJ1
+!i10b 1
+!s85 0

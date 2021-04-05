@@ -1,0 +1,200 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aldo\CUCEI\Verificacion\Ejemplos avanzados
+T_opt
+Z1 VgEnL=MC^nXG??D86X1DO:2
+Z2 04 9 4 work example34 fast 0
+Z3 =1-e811328f593e-57398e44-35c-bb94
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;10.1c;51
+Z7 dC:\Users\Aldo\CUCEI\Verificacion\Ejemplos avanzados
+T_opt1
+Z8 V`3R<1j8CQBZ^D41Ql8gb20
+Z9 04 9 4 work example30 fast 0
+Z10 =1-e811328f593e-573a8d07-2f3-293c
+R4
+Z11 n@_opt1
+R6
+R7
+T_opt2
+Z12 VLZG3U^k=R95I0??ceWAA>0
+Z13 04 9 4 work example32 fast 0
+Z14 =1-e811328f593e-573a8e5d-38b-1044
+R4
+Z15 n@_opt2
+R6
+R7
+XEnvPkg
+Z16 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 3U0jBBz[XN:?[01A@MST_0
+IRCdW];oGnLdnG0a=ZL]LL0
+VRCdW];oGnLdnG0a=ZL]LL0
+S1
+R7
+Z17 w1463459596
+Z18 8monidriver.sv
+Z19 Fmonidriver.sv
+L0 21
+Z20 OL;L;10.1c;51
+r1
+!s85 0
+31
+Z21 !s108 1463459610.893000
+Z22 !s107 monidriver.sv|
+Z23 !s90 monidriver.sv|
+Z24 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z25 n@env@pkg
+vexample30
+R16
+Z26 I;N5c]]276:Y2[aZo?nKcz2
+Z27 V^^YeEfnFe=hXik[;F>zKO2
+Z28 !s105 SVAdvanced_sv_unit
+S1
+R7
+Z29 w1463455577
+Z30 8SVAdvanced.sv
+Z31 FSVAdvanced.sv
+L0 4
+R20
+r1
+31
+Z32 !s108 1463459454.897000
+Z33 !s107 SVAdvanced.sv|
+Z34 !s90 SVAdvanced.sv|
+R24
+!i10b 1
+Z35 !s100 n_]8Bo28fZJR_DK4:EF^U0
+!s85 0
+vexample31
+R16
+Z36 !s100 AkJgdR=EXT::Zga^=jnnh3
+Z37 I3;hGKDgmXQ4`Kn>7[m`H:0
+Z38 VZcRC8_3BQ1OQ[T1BfO5:V3
+R28
+S1
+R7
+R29
+R30
+R31
+L0 45
+R20
+r1
+31
+R32
+R33
+R34
+R24
+!i10b 1
+!s85 0
+vexample32
+R16
+Z39 !s100 FNeJQoK[58g^OemNj4zNf3
+Z40 IA5M4cdWHA7`C`8`_`AE_c2
+Z41 Vi5WC3<5IEKR:<dARaSbl=0
+R28
+S1
+R7
+R29
+R30
+R31
+L0 88
+R20
+r1
+31
+R32
+R33
+R34
+R24
+!i10b 1
+!s85 0
+vexample33
+R16
+Z42 !s100 z;QYY3fWSgjXO8_CU`5gl1
+Z43 IP^:oVV[eTQn5Gn2oEUH`e0
+Z44 ViBlaN3XA@SfcX>?>2;YaM0
+R28
+S1
+R7
+R29
+R30
+R31
+Z45 L0 142
+R20
+r1
+31
+R32
+R33
+R34
+R24
+!i10b 1
+!s85 0
+vexample34
+R16
+DXx4 work 6 EnvPkg 0 22 RCdW];oGnLdnG0a=ZL]LL0
+!i10b 1
+!s100 ?MkC=l?g?6n@HU<Djaiif1
+IN2PhXbj^2o>3WGUZ[N8F[0
+Z46 VWDJbNfY8Fkld1R^HeW0j81
+Z47 !s105 monidriver_sv_unit
+S1
+R7
+R17
+R18
+R19
+L0 96
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+R24
+vRouter
+R16
+!i10b 1
+!s100 I<zA2koj=i_1IiTjeFc^n0
+I=GM<li2[cg87LH[<l@6Sk0
+Z48 V<XAW:Y^R<o^]0aCk4bK1i0
+R47
+S1
+R7
+R17
+R18
+R19
+L0 15
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+R24
+Z49 n@router
+YRouterIf
+R16
+!i10b 1
+!s100 mJ4Vc`0>[=fD52Z@Wfkde0
+I`1_R6fYA71^CgBn<f?[>j2
+Z50 VP@?N;F1YWo?3k9E<ZPOMK2
+R47
+S1
+R7
+R17
+R18
+R19
+L0 6
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+R24
+Z51 n@router@if

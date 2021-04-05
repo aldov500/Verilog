@@ -1,0 +1,114 @@
+m255
+K3
+z0
+13
+cModel Technology
+Z0 dC:\Users\AldoVargas\CUCEI\Verificacion de Circuitos\Act 05
+T_opt
+VA@>2kEa@:k=d<]X7gGBUP2
+04 10 4 work test_bench fast 0
+=1-dca97136cefa-56bbd268-117-230c
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+R0
+T_opt1
+V41h]jFBBFm@d;RFi[@iYl0
+04 5 4 work mealy fast 0
+=1-dca97136cefa-56bbce95-1f5-1968
+R1
+n@_opt1
+R2
+R0
+T_opt2
+VZJjM>_S<WDH]BnCdK]Wm52
+04 11 4 work test_bench1 fast 0
+=1-dca97136cefa-56bc036a-328-1c64
+R1
+n@_opt2
+R2
+R0
+vmealy
+Z3 !s110 1474775007
+!i10b 1
+!s100 5XDngAdKhm^3RnmY?HihI1
+IkI>b6GT6VJMfc@XK2Z@?50
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dC:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6
+w1455151911
+8C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/maquina_estados.v
+FC:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/maquina_estados.v
+L0 3
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1474775007.000000
+!s107 C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/maquina_estados.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/maquina_estados.v|
+!s101 -O0
+!i113 1
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+vmoore
+R3
+!i10b 1
+!s100 jEV3m^F@6cS;f7CFTd??21
+IU4P=eTV02mP3b^PRgD>7<1
+R4
+R5
+w1455165705
+8C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/moore.v
+FC:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/moore.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/moore.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/moore.v|
+!s101 -O0
+!i113 1
+R8
+vtest_bench
+R3
+!i10b 1
+!s100 N>;AmWC1@H@98<=d_@[X[2
+IS9HK2A^U`5SC_Q0Y=7k]^1
+R4
+R5
+w1455165797
+8C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/test_bench.v
+FC:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/test_bench.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/test_bench.v|
+!s101 -O0
+!i113 1
+R8
+vtest_bench1
+R3
+!i10b 1
+!s100 <HZA1`koCXg><:LCD@6431
+IjLQ?9m^PP^LcW?mbJN6O@3
+R4
+R5
+w1455165801
+8C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/test_bench1.v
+FC:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/test_bench1.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/test_bench1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Actividades/Act 6/test_bench1.v|
+!s101 -O0
+!i113 1
+R8

@@ -1,0 +1,191 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aldo\CUCEI\Verificacion\Ejemplos avanzados
+T_opt
+VgEnL=MC^nXG??D86X1DO:2
+04 9 4 work example34 fast 0
+=1-e811328f593e-57398e44-35c-bb94
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dC:\Users\Aldo\CUCEI\Verificacion\Ejemplos avanzados
+T_opt1
+V`3R<1j8CQBZ^D41Ql8gb20
+04 9 4 work example30 fast 0
+=1-e811328f593e-573a8d07-2f3-293c
+R1
+n@_opt1
+R2
+XEnvPkg
+Z4 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+IX9R3izl;zi33V7j6jEjRe1
+VX9R3izl;zi33V7j6jEjRe1
+S1
+R3
+Z5 w1463454973
+Z6 8SVAdvanced.sv
+Z7 FSVAdvanced.sv
+L0 187
+Z8 OL;L;10.1c;51
+r1
+31
+Z9 !s108 1463454976.723000
+Z10 !s107 SVAdvanced.sv|
+Z11 !s90 SVAdvanced.sv|
+Z12 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@env@pkg
+!s100 mgDH1ZhgFYblNNzoDn;Jd0
+!i10b 1
+!s85 0
+vexample30
+R4
+IW09<Nj3_1TWnLXEDEFU0?3
+V^^YeEfnFe=hXik[;F>zKO2
+Z13 !s105 SVAdvanced_sv_unit
+S1
+R3
+R5
+R6
+R7
+L0 4
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s100 f71XST?RJQT42I]LbMdDi0
+!s85 0
+vexample31
+R4
+I3;hGKDgmXQ4`Kn>7[m`H:0
+VZcRC8_3BQ1OQ[T1BfO5:V3
+R13
+S1
+R3
+R5
+R6
+R7
+L0 45
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 AkJgdR=EXT::Zga^=jnnh3
+!i10b 1
+!s85 0
+vexample32
+R4
+IA5M4cdWHA7`C`8`_`AE_c2
+Vi5WC3<5IEKR:<dARaSbl=0
+R13
+S1
+R3
+R5
+R6
+R7
+L0 88
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 FNeJQoK[58g^OemNj4zNf3
+!i10b 1
+!s85 0
+vexample33
+R4
+IP^:oVV[eTQn5Gn2oEUH`e0
+ViBlaN3XA@SfcX>?>2;YaM0
+R13
+S1
+R3
+R5
+R6
+R7
+L0 142
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 z;QYY3fWSgjXO8_CU`5gl1
+!i10b 1
+!s85 0
+vexample34
+R4
+DXx4 work 6 EnvPkg 0 22 X9R3izl;zi33V7j6jEjRe1
+IB3KcSeG^Vf5n5f]`bUi6U0
+VWDJbNfY8Fkld1R^HeW0j81
+R13
+S1
+R3
+R5
+R6
+R7
+L0 262
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 [7QYX`lk]]M`gdlBmlfS[1
+!i10b 1
+!s85 0
+vRouter
+R4
+IMfFD^Mfj4hfKS:Kf1F@2L1
+V<XAW:Y^R<o^]0aCk4bK1i0
+R13
+S1
+R3
+R5
+R6
+R7
+L0 181
+R8
+r1
+31
+R9
+R10
+R11
+R12
+n@router
+!s100 c:aAeYZNW[Wc<DIHjORPZ0
+!i10b 1
+!s85 0
+YRouterIf
+R4
+I6>;mUJmC^UmFhXnWc[RgQ2
+VP@?N;F1YWo?3k9E<ZPOMK2
+R13
+S1
+R3
+R5
+R6
+R7
+L0 172
+R8
+r1
+31
+R9
+R10
+R11
+R12
+n@router@if
+!s100 <UUM7VYB<?>51ScakNB;V1
+!i10b 1
+!s85 0

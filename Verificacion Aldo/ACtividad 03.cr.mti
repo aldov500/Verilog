@@ -1,0 +1,35 @@
+{C:/Users/AldoVargas/Desktop/Actividad 03/gates.v} {1 {vlog -work work -vopt {C:/Users/AldoVargas/Desktop/Actividad 03/gates.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module and_gate
+-- Compiling module or_gate
+-- Compiling module nand_gate
+-- Compiling module xor_gate
+
+Top level modules:
+	and_gate
+	or_gate
+	nand_gate
+	xor_gate
+
+} {} {}} {C:/Users/AldoVargas/Desktop/Actividad 03/decodificador.v} {1 {vlog -work work -vopt {C:/Users/AldoVargas/Desktop/Actividad 03/decodificador.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module decodificador
+
+Top level modules:
+	decodificador
+
+} {} {}} {C:/Users/AldoVargas/Desktop/Actividad 03/multiplexor.v} {1 {vlog -work work -vopt {C:/Users/AldoVargas/Desktop/Actividad 03/multiplexor.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module multiplexor
+
+Top level modules:
+	multiplexor
+
+} {} {}} {C:/Users/AldoVargas/Desktop/Actividad 03/test_bench.v} {1 {vlog -work work -vopt {C:/Users/AldoVargas/Desktop/Actividad 03/test_bench.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test_bench
+
+Top level modules:
+	test_bench
+
+} {} {}}

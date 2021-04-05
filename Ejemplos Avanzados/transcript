@@ -1,0 +1,22 @@
+# vsim -do {run -all; q -f} -c example34 
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.EnvPkg(fast)
+# Loading work.example34(fast)
+# Loading work.RouterIf(fast)
+# Loading work.Router(fast)
+# run -all 
+# [  200ns][DRIVER]  Sending Packet[0]  = { 8d, c0,}
+# [  400ns][DRIVER]  Sending Packet[1]  = { 65, dd, 25, 9a, 47,}
+# [  600ns][MONITOR] Recieved Packet[0] = { 8d, c0,}
+# [  900ns][DRIVER]  Sending Packet[2]  = { fb, 26, bf, 09, 9f,}
+# [ 1100ns][MONITOR] Recieved Packet[1] = { 65, dd, 25, 9a, 47,}
+# [ 1600ns][MONITOR] Recieved Packet[2] = { fb, 26, bf, 09, 9f,}

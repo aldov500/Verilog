@@ -1,0 +1,38 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\examples
+T_opt
+V_`nhAR:OJ<NeY>oeTZCmB3
+Z1 04 8 4 work contador fast 0
+=1-dca97136cefa-56b7a87b-2d8-1d84
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dC:\modeltech64_10.1c\examples
+T_opt1
+VdN[3T1iGAloC^B`;=R`1n2
+R1
+=1-dca97136cefa-56b7aa64-107-1458
+o-quiet -auto_acc_if_foreign -work work
+n@_opt1
+R2
+vcontador
+!s100 ?imBd3?>jz0CPGc13o9ba1
+If7a_>Rhn]EZ^^leXLNW7C1
+VcHZcTckia9FUDdf1n7AAa1
+dC:\Users\AldoVargas\CUCEI\Verificacion de Circuitos\Act 05
+w1454877269
+8C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/contador.v
+FC:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/contador.v
+L0 1
+OL;L;10.1c;51
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/contador.v|
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s85 0
+!s108 1454877273.902000
+!s107 C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/contador.v|

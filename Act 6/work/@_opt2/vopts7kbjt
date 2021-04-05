@@ -1,0 +1,100 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\AldoVargas\CUCEI\Verificacion de Circuitos\Act 05
+T_opt
+VA@>2kEa@:k=d<]X7gGBUP2
+04 10 4 work test_bench fast 0
+=1-dca97136cefa-56bbd268-117-230c
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dC:\Users\AldoVargas\CUCEI\Verificacion de Circuitos\Act 05
+T_opt1
+V41h]jFBBFm@d;RFi[@iYl0
+04 5 4 work mealy fast 0
+=1-dca97136cefa-56bbce95-1f5-1968
+R1
+n@_opt1
+R2
+R3
+T_opt2
+VZJjM>_S<WDH]BnCdK]Wm52
+04 11 4 work test_bench1 fast 0
+=1-dca97136cefa-56bc036a-328-1c64
+R1
+n@_opt2
+R2
+vmealy
+!s100 SoMPgWW4GdKR]Xk0@[hME0
+IBTXSUnfnzO3dn42bgI]DO1
+V1NVTOO[]2n:eml4GzfI]G2
+Z4 dC:\Users\AldoVargas\CUCEI\Verificacion de Circuitos\Act 06
+w1455148311
+8C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/maquina_estados.v
+FC:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/maquina_estados.v
+L0 3
+Z5 OL;L;10.1c;51
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/maquina_estados.v|
+Z6 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s108 1455162205.956000
+!s107 C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/maquina_estados.v|
+!i10b 1
+!s85 0
+vmoore
+!s100 Z^L_>VWjoN<bhe:i[c>6O1
+I2SD:z4V6LIn37W=KkeN0M1
+VMf@X9KXIERkEEKVoP@O^f0
+R4
+w1455162105
+8C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/moore.v
+FC:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/moore.v
+L0 3
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/moore.v|
+R6
+!s108 1455162206.476000
+!s107 C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/moore.v|
+!i10b 1
+!s85 0
+vtest_bench
+!s100 n4jVQnOC[AjY29O4[@?SS3
+IGOT`cKFEGnLX1JecNdPgg0
+V8Z4Q<@c2;D2Z4o>cHQ68<3
+R4
+w1455162197
+8C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench.v
+FC:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench.v
+L0 1
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench.v|
+R6
+!s108 1455162206.236000
+!s107 C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench.v|
+!i10b 1
+!s85 0
+vtest_bench1
+!s100 1;kHh;e:9mlV][O@oadH71
+IFDfj[GF4SkYfRSIPoX>@g2
+VR[@Yd@k5LN;lRQ>`3[SA>1
+R4
+w1455162201
+8C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench1.v
+FC:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench1.v
+L0 1
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench1.v|
+R6
+!i10b 1
+!s85 0
+!s108 1455162206.716000
+!s107 C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench1.v|

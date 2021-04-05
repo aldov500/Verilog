@@ -1,0 +1,183 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aldo\CUCEI\Verificacion\Ejemplos avanzados
+T_opt
+VgEnL=MC^nXG??D86X1DO:2
+04 9 4 work example34 fast 0
+=1-e811328f593e-57398e44-35c-bb94
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+XEnvPkg
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+IX9R3izl;zi33V7j6jEjRe1
+VX9R3izl;zi33V7j6jEjRe1
+S1
+Z2 dC:\Users\Aldo\CUCEI\Verificacion\Ejemplos avanzados
+Z3 w1462332037
+Z4 8SVAdvanced.sv
+Z5 FSVAdvanced.sv
+L0 187
+Z6 OL;L;10.1c;51
+r1
+31
+Z7 !s108 1463389691.238000
+Z8 !s107 SVAdvanced.sv|
+Z9 !s90 SVAdvanced.sv|
+Z10 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@env@pkg
+!i10b 1
+!s100 mgDH1ZhgFYblNNzoDn;Jd0
+!s85 0
+vexample30
+R1
+IdbX^=XiI_G^8h?3Z3IhZh0
+V^^YeEfnFe=hXik[;F>zKO2
+Z11 !s105 SVAdvanced_sv_unit
+S1
+R2
+R3
+R4
+R5
+L0 4
+R6
+r1
+31
+R7
+R8
+R9
+R10
+!i10b 1
+!s100 OhonnN2:4JdBUYk1h3L?]2
+!s85 0
+vexample31
+R1
+I3;hGKDgmXQ4`Kn>7[m`H:0
+VZcRC8_3BQ1OQ[T1BfO5:V3
+R11
+S1
+R2
+R3
+R4
+R5
+L0 45
+R6
+r1
+31
+R7
+R8
+R9
+R10
+!i10b 1
+!s100 AkJgdR=EXT::Zga^=jnnh3
+!s85 0
+vexample32
+R1
+IA5M4cdWHA7`C`8`_`AE_c2
+Vi5WC3<5IEKR:<dARaSbl=0
+R11
+S1
+R2
+R3
+R4
+R5
+L0 88
+R6
+r1
+31
+R7
+R8
+R9
+R10
+!i10b 1
+!s100 FNeJQoK[58g^OemNj4zNf3
+!s85 0
+vexample33
+R1
+IP^:oVV[eTQn5Gn2oEUH`e0
+ViBlaN3XA@SfcX>?>2;YaM0
+R11
+S1
+R2
+R3
+R4
+R5
+L0 142
+R6
+r1
+31
+R7
+R8
+R9
+R10
+!i10b 1
+!s100 z;QYY3fWSgjXO8_CU`5gl1
+!s85 0
+vexample34
+R1
+DXx4 work 6 EnvPkg 0 22 X9R3izl;zi33V7j6jEjRe1
+IB3KcSeG^Vf5n5f]`bUi6U0
+VWDJbNfY8Fkld1R^HeW0j81
+R11
+S1
+R2
+R3
+R4
+R5
+L0 262
+R6
+r1
+31
+R7
+R8
+R9
+R10
+!i10b 1
+!s100 [7QYX`lk]]M`gdlBmlfS[1
+!s85 0
+vRouter
+R1
+IMfFD^Mfj4hfKS:Kf1F@2L1
+V<XAW:Y^R<o^]0aCk4bK1i0
+R11
+S1
+R2
+R3
+R4
+R5
+L0 181
+R6
+r1
+31
+R7
+R8
+R9
+R10
+n@router
+!i10b 1
+!s100 c:aAeYZNW[Wc<DIHjORPZ0
+!s85 0
+YRouterIf
+R1
+I6>;mUJmC^UmFhXnWc[RgQ2
+VP@?N;F1YWo?3k9E<ZPOMK2
+R11
+S1
+R2
+R3
+R4
+R5
+L0 172
+R6
+r1
+31
+R7
+R8
+R9
+R10
+n@router@if
+!i10b 1
+!s100 <UUM7VYB<?>51ScakNB;V1
+!s85 0

@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vALU8Bits
+Z0 !s110 1496016038
+!i10b 1
+!s100 nY3n^GD6YGA_zO0L>U:9V1
+Il;AgeXiUE6DR>0bkCe]EX2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Aldo/Google Drive/Programacion/Verilog y System Verilog/Workspace/Alu 8 bits
+w1496016033
+8C:\Users\Aldo\Google Drive\Programacion\Verilog y System Verilog\Workspace\Alu 8 bits\Alu_8bits.v
+FC:\Users\Aldo\Google Drive\Programacion\Verilog y System Verilog\Workspace\Alu 8 bits\Alu_8bits.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1496016038.000000
+!s107 C:\Users\Aldo\Google Drive\Programacion\Verilog y System Verilog\Workspace\Alu 8 bits\Alu_8bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Aldo\Google Drive\Programacion\Verilog y System Verilog\Workspace\Alu 8 bits\Alu_8bits.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u8@bits
+vtb_ALU8Bits
+R0
+!i10b 1
+!s100 O23AL=7T9l6S_SblmIRT82
+I0IEj?WA3zidfzoMi:oOSX1
+R1
+R2
+w1496015983
+8C:\Users\Aldo\Google Drive\Programacion\Verilog y System Verilog\Workspace\Alu 8 bits\TB_Alu_8bits.v
+FC:\Users\Aldo\Google Drive\Programacion\Verilog y System Verilog\Workspace\Alu 8 bits\TB_Alu_8bits.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\Aldo\Google Drive\Programacion\Verilog y System Verilog\Workspace\Alu 8 bits\TB_Alu_8bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Aldo\Google Drive\Programacion\Verilog y System Verilog\Workspace\Alu 8 bits\TB_Alu_8bits.v|
+!s101 -O0
+!i113 1
+R5
+ntb_@a@l@u8@bits

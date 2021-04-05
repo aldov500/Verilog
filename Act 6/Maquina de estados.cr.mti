@@ -1,0 +1,29 @@
+{C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench1.v} {1 {vlog -work work -vopt {C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench1.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test_bench1
+
+Top level modules:
+	test_bench1
+
+} {} {}} {C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/maquina_estados.v} {1 {vlog -work work -vopt {C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/maquina_estados.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mealy
+
+Top level modules:
+	mealy
+
+} {} {}} {C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/moore.v} {1 {vlog -work work -vopt {C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/moore.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module moore
+
+Top level modules:
+	moore
+
+} {} {}} {C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench.v} {1 {vlog -work work -vopt {C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 06/test_bench.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test_bench
+
+Top level modules:
+	test_bench
+
+} {} {}}

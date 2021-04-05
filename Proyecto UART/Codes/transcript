@@ -1,0 +1,5 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# ** Error: (vish-7) Failed to open ini file "C:/modeltech64_10.1c/modelsim.ini" in read mode.
+# Invalid argument. (errno = EINVAL)
+# OpenFile {C:/Users/Aldo/Google Drive/FlashPoint Tutoriales Youtube/Verilog/Ejemplos Verilog/Proyecto UART/Codes/work.mpf}
+# Loading project work

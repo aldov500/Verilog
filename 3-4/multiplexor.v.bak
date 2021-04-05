@@ -1,0 +1,29 @@
+//Multiplexor
+module multiplexor(
+output reg[3:0]mux_out,              //SALIDA
+input wire [3:0]mux_selector,        //Selector de datos
+//Lectura valores logicos
+input wire[3:0]mux_and,  //Entrada AND
+input [3:0]mux_or,   //Entrada OR
+input [3:0]mux_nand, //Entrada NAND
+input [3:0]mux_xor   //Entrada XOR
+);
+
+test_bench mux_data(
+  .mux_out(mux_out)
+);
+always @(*)
+begin
+  case(mux_selector)
+    4'b0001:
+      mux_out=mux_and;
+    4'b0010:
+      mux_out=mux_or;
+    4'b0100:
+      mux_out=mux_nand;
+    4'b1000:
+      mux_out=mux_xor;
+    endcase       
+end
+
+endmodule

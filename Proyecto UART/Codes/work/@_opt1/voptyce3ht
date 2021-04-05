@@ -1,0 +1,146 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aldo\Pendientes\Verificacion\UART\Codes\Proyecto Final
+T_opt
+VFz[XVZjjY:zVO>h;IB>WI3
+Z1 04 8 4 work top_uart fast 0
+=1-e811328f593e-573c7257-255-4d84
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dC:\Users\Aldo\Pendientes\Verificacion\UART\Codes\Proyecto Final
+T_opt1
+VehA<i]W_T?_N:bck?Fkoa2
+R1
+=1-e811328f593e-573c72c5-5f-4bf0
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt1
+R2
+vmonitor
+Z4 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+I`;AX9[0hLNEI[@6nR7j503
+VCmi]c@LD:ljOF9?_SFEnn1
+Z5 !s105 top_uart_sv_unit
+S1
+R3
+Z6 w1463579251
+Z7 8C:/Users/Aldo/Pendientes/Verificacion/UART/Codes/Proyecto Final/top_uart.sv
+Z8 FC:/Users/Aldo/Pendientes/Verificacion/UART/Codes/Proyecto Final/top_uart.sv
+L0 82
+Z9 OL;L;10.1c;51
+r1
+31
+Z10 !s108 1463579327.822000
+Z11 !s107 C:/Users/Aldo/Pendientes/Verificacion/UART/Codes/Proyecto Final/top_uart.sv|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/Aldo/Pendientes/Verificacion/UART/Codes/Proyecto Final/top_uart.sv|
+Z13 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 <63o75IB>MQTLXoKZ9FGb1
+!s85 0
+vtest_bench_uart
+R4
+IA^L0HGNDD@[;EH>ZX;7gX3
+V@fm15ch=T5H?:gkcD20C>1
+R5
+S1
+R3
+R6
+R7
+R8
+L0 57
+R9
+r1
+31
+R10
+R11
+R12
+R13
+!i10b 1
+!s100 OHbAV8V@3MlO77Rb9Sng<2
+!s85 0
+vtop_uart
+R4
+I]@eh1SKcZ1hOJDUgCjK=B2
+V46THc@KKz@Cik]d?dnKbk0
+R5
+S1
+R3
+R6
+R7
+R8
+L0 4
+R9
+r1
+31
+R10
+R11
+R12
+R13
+!i10b 1
+!s100 fUb@5g4bKIIez2eVl2oGX1
+!s85 0
+Yuart_if
+R4
+IdfcV`FhbTPfWle=M1f4?J1
+V1DWLnjZ3Yelm0aoD9]WTE0
+R5
+S1
+R3
+R6
+R7
+R8
+L0 24
+R9
+r1
+31
+R10
+R11
+R12
+R13
+!i10b 1
+!s100 BLdjnj`BCUz@2?DGRH8Za3
+!s85 0
+vuart_rx
+R4
+ISTzo7f06<XnhcOlg6K8`81
+Vn>B<KQPEVic3z<Hgb?6363
+R5
+S1
+R3
+R6
+R7
+R8
+L0 230
+R9
+r1
+31
+R10
+R11
+R12
+R13
+!i10b 1
+!s100 `k<GHeD[PDHDS^8:3nKkV1
+!s85 0
+vuart_tx
+R4
+I7`jkYA6JA?7dR`DQ4SLie1
+VzPA`ll;mfEWQKP:J_f1hz0
+R5
+S1
+R3
+R6
+R7
+R8
+L0 119
+R9
+r1
+31
+R10
+R11
+R12
+R13
+!i10b 1
+!s100 K3V69oib`K7B^69OS`h:C1
+!s85 0

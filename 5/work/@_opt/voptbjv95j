@@ -1,0 +1,30 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech64_10.1c\examples
+T_opt
+V_`nhAR:OJ<NeY>oeTZCmB3
+04 8 4 work contador fast 0
+=1-dca97136cefa-56b7a87b-2d8-1d84
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vcontador
+I^j<W28BN[C6oA@PXK;JVM1
+Vjoo?BOLTPCg8N?38j3F?F1
+dC:\Users\AldoVargas\CUCEI\Verificacion de Circuitos\Act 05
+w1454876783
+8C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/contador.v
+FC:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/contador.v
+L0 1
+OL;L;10.1c;51
+r1
+31
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/contador.v|
+!i10b 1
+!s100 iNa9VgA<;iJ3bM`h_Tllo3
+!s85 0
+!s108 1454876783.887000
+!s107 C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/contador.v|

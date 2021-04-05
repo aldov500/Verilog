@@ -1,0 +1,6 @@
+# vsim -do {run all; -q -f} -c example_05_04_01 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: Failed to find design unit work.example_05_04_01.
+# Optimization failed
+# Error loading design

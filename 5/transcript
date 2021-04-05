@@ -1,0 +1,15 @@
+# Reading C:/modeltech64_10.1c/tcl/vsim/pref.tcl 
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile {C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/Contador_8bits.mpf} 
+# Loading project Contador_8bits
+# Error opening C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/contador.v
+# Path name 'C:/Users/AldoVargas/CUCEI/Verificacion de Circuitos/Act 05/contador.v' doesn't exist.
+# Compile of AAVM_TAREA_05.v was successful.

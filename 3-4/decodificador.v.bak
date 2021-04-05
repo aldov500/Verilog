@@ -1,0 +1,28 @@
+//Decodificador
+module decodificador (
+  input wire dec_enable,
+  input wire[1:0]dec_selector,
+  output reg[3:0]dec_out
+  );
+  
+
+//Proceso
+always @(*)
+  begin
+    //Condicional enable
+    if (dec_enable==1)    
+      //Condicional selector
+      case (dec_selector)
+      2'b00:
+        dec_out= 4'b0001;   //AND
+      2'b01:
+        dec_out=4'b0010; //OR
+      2'b10:
+        dec_out=4'b0100; //NAND
+      2'b11:
+        dec_out=4'b1000;   //XOR
+      endcase
+    else
+     dec_out=0;
+  end
+endmodule
